@@ -1,0 +1,2433 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://sqlzoo.net/wiki/SQL_Tutorial
+Subject: SQLZoo
+Date: Tue, 3 Oct 2023 18:52:26 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----"
+
+
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: text/html
+Content-ID: <frame-22BA187C3B94F9E901A05697CC8D2E5B@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://sqlzoo.net/wiki/SQL_Tutorial
+
+<!DOCTYPE html><html class=3D"client-js" lang=3D"en-GB" dir=3D"ltr"><head><=
+meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><li=
+nk rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e0f95f37-ace8-4902-=
+8cbb-facb52133bda@mhtml.blink" />
+
+<title>SQLZoo</title>
+
+
+<link rel=3D"stylesheet" href=3D"https://sqlzoo.net/w/load.php?lang=3Den-gb=
+&amp;modules=3Dskins.vector.styles.legacy&amp;only=3Dstyles&amp;skin=3Dvect=
+or">
+
+<meta name=3D"ResourceLoaderDynamicStyles" content=3D"">
+<link rel=3D"stylesheet" href=3D"https://sqlzoo.net/w/load.php?lang=3Den-gb=
+&amp;modules=3Dsite.styles&amp;only=3Dstyles&amp;skin=3Dvector">
+<meta name=3D"generator" content=3D"MediaWiki 1.40.0">
+<meta name=3D"robots" content=3D"max-image-preview:standard">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<meta name=3D"viewport" content=3D"width=3D1000">
+<link rel=3D"icon" href=3D"https://sqlzoo.net/favicon.ico">
+<link rel=3D"search" type=3D"application/opensearchdescription+xml" href=3D=
+"https://sqlzoo.net/w/opensearch_desc.php" title=3D"SQLZoo (en-gb)">
+<link rel=3D"EditURI" type=3D"application/rsd+xml" href=3D"http://sqlzoo.ne=
+t/w/api.php?action=3Drsd">
+<link rel=3D"alternate" type=3D"application/atom+xml" title=3D"SQLZoo Atom =
+feed" href=3D"https://sqlzoo.net/w/index.php?title=3DSpecial:RecentChanges&=
+amp;feed=3Datom">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+<link rel=3D"stylesheet" href=3D"https://sqlzoo.net/sqlzoo.css"></head>
+<body class=3D"skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-e=
+lt ns-0 ns-subject page-SQL_Tutorial rootpage-SQL_Tutorial skin-vector acti=
+on-view mysql-old"><div id=3D"mw-page-base" class=3D"noprint"></div>
+<div id=3D"mw-head-base" class=3D"noprint"><div id=3D"uc-banner" class=3D"b=
+anners"><span><a href=3D"https://usechannel.com/?utm_source=3Dsqlzoo&amp;ut=
+m_medium=3Dtop-text"><b><img alt=3D"" src=3D"https://usechannel.com/_next/i=
+mage?url=3D%2F_next%2Fstatic%2Fmedia%2Flogo_no_text_black.c13cd37b.png&amp;=
+w=3D256&amp;q=3D75" width=3D"113" height=3D"113" decoding=3D"async" data-ni=
+mg=3D"1" loading=3D"lazy" style=3D"width:1.5rem;height:1.5rem;margin-right:=
+1ex;color:transparent">Channel </b></a>Ask questions of your business data =
+in English and use <b>AI to generate SQL</b>.</span></div></div>
+<div id=3D"content" class=3D"mw-body" role=3D"main">
+	<a id=3D"top"></a>
+	<div id=3D"siteNotice"></div>
+	<div class=3D"mw-indicators">
+	</div>
+	<h1 id=3D"firstHeading" class=3D"firstHeading mw-first-heading"><span clas=
+s=3D"mw-page-title-main">SQL Tutorial</span></h1>
+	<div id=3D"bodyContent" class=3D"vector-body">
+		<div id=3D"siteSub" class=3D"noprint">From SQLZoo</div>
+		<div id=3D"contentSub"><div id=3D"mw-content-subtitle"></div></div>
+		<div id=3D"contentSub2"></div>
+	=09
+		<div id=3D"jump-to-nav"></div>
+		<a class=3D"mw-jump-link" href=3D"https://sqlzoo.net/wiki/SQL_Tutorial#mw=
+-head">Jump to navigation</a>
+		<a class=3D"mw-jump-link" href=3D"https://sqlzoo.net/wiki/SQL_Tutorial#se=
+archInput">Jump to search</a>
+		<div id=3D"mw-content-text" class=3D"mw-body-content mw-content-ltr" lang=
+=3D"en-GB" dir=3D"ltr"><div class=3D"mw-parser-output"><div style=3D"positi=
+on:absolute;right:5px"><table class=3D"nmbox" style=3D"border:1px solid #AA=
+A; border-collapse:collapse; clear:both; font-size:85%; margin: 0.5em 0">
+<tbody><tr style=3D"background:#EEF3E2">
+<th class=3D"mbox-image" style=3D"white-space:nowrap; padding:4px 1em; bord=
+er-right:1px solid #aaa"> <a href=3D"https://sqlzoo.net/wiki/Special:MyLang=
+uage/Project:Language_policy" title=3D"Special:MyLanguage/Project:Language =
+policy">Language:</a><span style=3D"display:none"><a href=3D"https://sqlzoo=
+.net/wiki/SQLZoo:Language_policy" title=3D"SQLZoo:Language policy">Project:=
+Language policy</a></span></th>
+<td class=3D"mbox-text" style=3D"background:#F6F9ED"><b><a class=3D"mw-self=
+link selflink">English</a></b> &nbsp;=E2=80=A2 <bdi lang=3D"ja"><a href=3D"=
+https://sqlzoo.net/wiki/SQL_Tutorial/ja" title=3D"SQL Tutorial/ja">=E6=97=
+=A5=E6=9C=AC=E8=AA=9E</a></bdi><span class=3D"autonym"></span><span class=
+=3D"autonym"></span>&nbsp;=E2=80=A2 <bdi lang=3D"zh"><a href=3D"https://sql=
+zoo.net/wiki/SQL_Tutorial/zh" title=3D"SQL Tutorial/zh">=E4=B8=AD=E6=96=87<=
+/a></bdi></td>
+</tr></tbody></table></div>
+<div class=3D"tutblock">
+<h2><span class=3D"mw-headline" id=3D"Tutorials:_Learn_SQL_step_by_step">Tu=
+torials: Learn SQL step by step</span></h2>
+<dl><dt><a href=3D"https://sqlzoo.net/wiki/SELECT_basics" title=3D"SELECT b=
+asics">0 SELECT basics</a></dt>
+<dd>Some  simple queries to get you started</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/SELECT_names" title=3D"SELECT names"=
+>1 SELECT name</a></dt>
+<dd>Some pattern matching queries</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial" title=3D=
+"SELECT from WORLD Tutorial">2 SELECT from World</a></dt>
+<dd>In which we query the World country profile table.</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial" title=3D=
+"SELECT from Nobel Tutorial">3 SELECT from Nobel</a></dt>
+<dd>Additional practice of the basic features using a table of Nobel Prize =
+winners.</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial" title=
+=3D"SELECT within SELECT Tutorial">4 SELECT within SELECT</a></dt>
+<dd>In which we form queries using other queries.</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/SUM_and_COUNT" title=3D"SUM and COUN=
+T">5 SUM and COUNT</a></dt>
+<dd>In which we apply aggregate functions. <a href=3D"https://sqlzoo.net/wi=
+ki/The_nobel_table_can_be_used_to_practice_more_SUM_and_COUNT_functions." t=
+itle=3D"The nobel table can be used to practice more SUM and COUNT function=
+s.">more the same</a></dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/The_JOIN_operation" title=3D"The JOI=
+N operation">6 JOIN</a></dt>
+<dd>In which we join two tables; game and goals. <a href=3D"https://sqlzoo.=
+net/wiki/Music_Tutorial" title=3D"Music Tutorial">previously music tutorial=
+</a></dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/More_JOIN_operations" title=3D"More =
+JOIN operations">7 More JOIN operations</a></dt>
+<dd>In which we join actors to movies in the Movie Database.</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Using_Null" title=3D"Using Null">8 U=
+sing Null</a></dt>
+<dd>In which we look at teachers in departments. <a href=3D"https://sqlzoo.=
+net/wiki/Scottish_Parliament" title=3D"Scottish Parliament">previously Scot=
+tish Parliament</a></dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/NSS_Tutorial" title=3D"NSS Tutorial"=
+>8+ Numeric Examples</a></dt>
+<dd>In which we look at a survey and deal with some more complex calculatio=
+ns.</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Window_functions" title=3D"Window fu=
+nctions">9- Window function</a></dt>
+<dd>In which we examine UK general election results.</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Window_LAG" title=3D"Window LAG">9+ =
+COVID 19</a></dt>
+<dd>In which we measure the impact of COVID-19</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Self_join" title=3D"Self join">9 Sel=
+f join</a></dt>
+<dd>In which we join Edinburgh bus routes to Edinburgh bus routes.</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Tutorial_Quizzes" title=3D"Tutorial =
+Quizzes">10 Tutorial Quizzes</a></dt>
+<dd>Test your knowledge with multiple choice quizzes</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/DDL_Student_Records" title=3D"DDL St=
+udent Records">11 Tutorial Student Records</a></dt>
+<dd>Creating a database</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/DDL_General_Election" title=3D"DDL G=
+eneral Election">12 Tutorial DDL</a></dt>
+<dd>Instructions on how to import data and analyse it in mysql</dd></dl>
+</div>
+<div class=3D"refblock">
+<h2><span class=3D"mw-headline" id=3D"Reference:_how_to...">Reference: how =
+to...</span></h2>
+<dl><dt>1 <a href=3D"https://sqlzoo.net/wiki/SELECT_Reference" title=3D"SEL=
+ECT Reference">SELECT</a></dt>
+<dd>How to read the data from a database.</dd>
+<dt>2 <a href=3D"https://sqlzoo.net/wiki/CREATE_and_DROP_Reference" title=
+=3D"CREATE and DROP Reference">CREATE and DROP</a></dt>
+<dd>How to create tables, indexes, views and other things. How to get rid o=
+f them.</dd>
+<dt>3 <a href=3D"https://sqlzoo.net/wiki/INSERT_and_DELETE_Reference" title=
+=3D"INSERT and DELETE Reference">INSERT and DELETE</a></dt>
+<dd>How to put records into a table, change them and how to take them out a=
+gain.</dd>
+<dt>4 <a href=3D"https://sqlzoo.net/wiki/DATE_and_TIME_Reference" title=3D"=
+DATE and TIME Reference">DATE and TIME</a></dt>
+<dd>How to work with dates; adding, subtracting and formatting.</dd>
+<dt>5 <a href=3D"https://sqlzoo.net/wiki/Functions_Reference" title=3D"Func=
+tions Reference">Functions</a></dt>
+<dd>How to use string functions, logical functions and mathematical functio=
+ns.</dd>
+<dt>6 <a href=3D"https://sqlzoo.net/wiki/Users_Reference" title=3D"Users Re=
+ference">Users</a></dt>
+<dd>How to create users, GRANT and DENY access, get at other peoples tables=
+. How to find processes and kill them.</dd>
+<dt>7 <a href=3D"https://sqlzoo.net/wiki/Meta_Data_Reference" title=3D"Meta=
+ Data Reference">Meta Data</a></dt>
+<dd>How to find out what tables and columns exist. How to count and limit t=
+he rows return.</dd>
+<dt>8 <a href=3D"https://sqlzoo.net/wiki/Hacks_Reference" title=3D"Hacks Re=
+ference">SQL Hacks</a></dt>
+<dd>Some SQL Hacks, taken from "SQL Hacks" published by O'Reilly</dd>
+<dt>9 <a href=3D"https://sqlzoo.net/wiki/SQL_with_PHP" title=3D"SQL with PH=
+P">Using SQL with PHP on Amazon EC2 servers</a></dt>
+<dd>Video tutorials showing how to run MySQL, PHP and Apache on Amazon's EC=
+2 cloud servers.</dd>
+<dd>Simpler instructions for students following module <a href=3D"https://s=
+qlzoo.net/wiki/INF08104" title=3D"INF08104">INF08104</a> at Edinburgh Napie=
+r University</dd>
+<dt>10 <a href=3D"https://sqlzoo.net/wiki/Transactions" title=3D"Transactio=
+ns">An introduction to transactions</a></dt>
+<dd>Video tutorials showing how sessions can interfere with each other and =
+how to stop it.</dd>
+<dt>11 <a href=3D"https://sqlzoo.net/wiki/SQL_with_CS" title=3D"SQL with CS=
+">Using SQL with C#</a></dt>
+<dd>Code to connect to a database in Visual Studio.</dd></dl>
+</div>
+<div class=3D"resblock" style=3D"clear:left">
+<div style=3D"clear:left"></div>
+<h2><span class=3D"mw-headline" id=3D"Assessments:_More_involved_examples_f=
+or_confident_users">Assessments: More involved examples for confident users=
+</span></h2>
+<p>Each assessment includes 15 questions graded easy, medium and hard.
+</p>
+<dl><dt><a href=3D"https://sqlzoo.net/wiki/Module_Feedback" title=3D"Module=
+ Feedback">Module Feedback</a></dt>
+<dd>Responses from students on their learning experience.</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Help_Desk" title=3D"Help Desk">Help =
+Desk</a></dt>
+<dd>Calls to a support desk</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Guest_House" title=3D"Guest House">G=
+uest House</a></dt>
+<dd>Managing bookings for a hotel</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/AdventureWorks" title=3D"AdventureWo=
+rks">Adventure Works</a></dt>
+<dd>An example based on a wholesaler (based on MicroSoft's sample database)=
+</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Neeps" title=3D"Neeps">University Ti=
+metables</a></dt>
+<dd>Schedules for lectures and tutorials</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Musicians" title=3D"Musicians">Music=
+ians</a></dt>
+<dd>Bands, Concerts, Performances</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Dressmaker" title=3D"Dressmaker">Dre=
+ssmaker</a></dt>
+<dd>Making and ordering dresses</dd>
+<dt><a href=3D"https://sqlzoo.net/wiki/Congestion_Charging" title=3D"Conges=
+tion Charging">Congestion Charging</a></dt>
+<dd>Monitoring and charging cars going in and out of London</dd></dl>
+<h2><span class=3D"mw-headline" id=3D"Challenges">Challenges</span></h2>
+<ul><li><a href=3D"https://sqlzoo.net/wiki/White_Christmas" title=3D"White =
+Christmas">White Christmas</a></li></ul>
+<h2><span class=3D"mw-headline" id=3D"SQL_Resources">SQL Resources</span></=
+h2>
+<ul><li><a rel=3D"nofollow" class=3D"external text" href=3D"https://nosqlzo=
+o.net/">NoSQL Mongo</a></li>
+<li><a rel=3D"nofollow" class=3D"external text" href=3D"http://sqlzoo.net/w=
+iki/SELECT_basics?answer=3D1">Select Basics - Answers</a></li>
+<li><a rel=3D"nofollow" class=3D"external text" href=3D"http://sqlzoo.net/w=
+iki/SELECT_from_WORLD_Tutorial?answer=3D1">Select from World - Answers</a><=
+/li>
+<li>See if you can spot the pattern</li></ul>
+<dl><dt>SQL User Manuals</dt>
+<dd><a rel=3D"nofollow" class=3D"external text" href=3D"http://developer.mi=
+mer.com/documentation/html_92/Mimer_SQL_Engine_DocSet/Mimer_SQL_Engine.htm"=
+>Mimer</a><a rel=3D"nofollow" class=3D"external text" href=3D"http://dev.my=
+sql.com/doc/refman/5.1/en/select.html">MySQL</a> <a rel=3D"nofollow" class=
+=3D"external text" href=3D"http://docs.oracle.com/cd/B28359_01/server.111/b=
+28286/toc.htm">Oracle</a> <a rel=3D"nofollow" class=3D"external text" href=
+=3D"http://msdn.microsoft.com/en-us/library/ms189826%28v=3Dsql.90%29.aspx">=
+SQL Server</a> <a rel=3D"nofollow" class=3D"external text" href=3D"http://o=
+ffice.microsoft.com/en-us/assistance/CH062526881033.aspx">Access</a> <a rel=
+=3D"nofollow" class=3D"external text" href=3D"http://pic.dhe.ibm.com/infoce=
+nter/db2luw/v9r7/index.jsp">DB2</a> <a rel=3D"nofollow" class=3D"external t=
+ext" href=3D"http://sybooks.sybase.com/sybooks/sybooks.xhtml">Sybase</a> <a=
+ rel=3D"nofollow" class=3D"external text" href=3D"http://www.postgresql.org=
+/docs/current/static/index.html">Postgres</a> <a rel=3D"nofollow" class=3D"=
+external text" href=3D"http://www.sqlite.org/lang.html">SQLite</a></dd>
+<dd>Online copies of implementation specific user manuals.</dd>
+<dt>Starting SQL</dt>
+<dd>[ <a href=3D"https://sqlzoo.net/wiki/Starting_MySQL" title=3D"Starting =
+MySQL">MySQL</a> | <a href=3D"https://sqlzoo.net/wiki/Starting_Oracle" titl=
+e=3D"Starting Oracle">Oracle</a> | <a href=3D"https://sqlzoo.net/wiki/Start=
+ing_SQL_Server" class=3D"mw-redirect" title=3D"Starting SQL Server">SQL Ser=
+ver</a> | <a href=3D"https://sqlzoo.net/wiki/Starting_DB2" title=3D"Startin=
+g DB2">DB2</a> | <a href=3D"https://sqlzoo.net/wiki/Starting_Postgres" titl=
+e=3D"Starting Postgres">Postgres</a> | <a href=3D"https://sqlzoo.net/wiki/S=
+tarting_Ingres" title=3D"Starting Ingres">Ingres</a> ]</dd>
+<dd>How to connect to the server and execute SQL statements.</dd>
+<dt>Programming with SQL</dt>
+<dd>[ <a href=3D"https://sqlzoo.net/wiki/SQL_in_perl_on_the_Web" title=3D"S=
+QL in perl on the Web">SQL in perl on the Web</a> | <a href=3D"https://sqlz=
+oo.net/wiki/SQL_from_Java" title=3D"SQL from Java">SQL from Java</a> ]</dd>
+<dt>Error Messages</dt>
+<dd><a href=3D"https://sqlzoo.net/wiki/SQL_Error_Messages" title=3D"SQL Err=
+or Messages">Some error messages from SQL engines</a></dd>
+<dt>Temporary Assessment section, before the main menu is finished.</dt>
+<dd><a href=3D"https://sqlzoo.net/wiki/Assessment_Temp" title=3D"Assessment=
+ Temp">Assessment Temp</a></dd></dl>
+</div>
+<div style=3D"margin-left:1em;clear:both">
+<p><a href=3D"https://sqlzoo.net/wiki/To_do_list" title=3D"To do list">To d=
+o list</a>
+</p>
+</div>
+
+<!--=20
+NewPP limit report
+Cached time: 20231001155854
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [no=E2=80=90toc=E2=80=90conversion]
+CPU time usage: 0.513 seconds
+Real time usage: 0.563 seconds
+Preprocessor visited node count: 5278/1000000
+Post=E2=80=90expand include size: 15347/2097152 bytes
+Template argument size: 4663/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 77/100
+Unstrip recursion depth: 0/20
+Unstrip post=E2=80=90expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  493.569      1 Template:Languages
+100.00%  493.569      1 -total
+ 76.60%  378.051    149 Template:Languages/Lang
+ 68.19%  336.551      1 Template:Nmbox
+ 31.75%  156.697    156 Template:Translatable
+ 16.93%   83.549    152 Template:Pagelang
+  6.09%   30.035      1 Template:Ll
+  4.80%   23.689      1 Template:Dir
+  3.17%   15.626      1 Template:Languages/Title
+  2.52%   12.458      1 Template:LangSwitch
+-->
+
+<!-- Saved in parser cache with key sqlzoo_wiki:pcache:idhash:9-0!canonical=
+ and timestamp 20231001155854 and revision id 40218. Rendering was triggere=
+d because: page-view
+ -->
+</div><div id=3D"uc-banner" class=3D"banners">    <span><a href=3D"https://=
+www.datawars.io/?utm_source=3Dsqlzoo&amp;utm_medium=3Dtop-text"><b><img alt=
+=3D"DataWars, Data Science Practice Projects - Logo" src=3D"https://static.=
+prd.datawars.io/brand/icon-transparent-bg.png" style=3D" width: 35px; margi=
+n-right: 5px; ">DataWars: </b></a>Practice Data Science/Analysis with <b>+1=
+00 Real Life Projects</b></span></div>
+<div class=3D"printfooter" data-nosnippet=3D"">Retrieved from =E2=80=98<a d=
+ir=3D"ltr" href=3D"http://sqlzoo.net/w/index.php?title=3DSQL_Tutorial&amp;o=
+ldid=3D40218">http://sqlzoo.net/w/index.php?title=3DSQL_Tutorial&amp;oldid=
+=3D40218</a>=E2=80=99</div></div>
+		<div id=3D"catlinks" class=3D"catlinks" data-mw=3D"interface"><div id=3D"=
+mw-normal-catlinks" class=3D"mw-normal-catlinks"><a href=3D"https://sqlzoo.=
+net/wiki/Special:Categories" title=3D"Special:Categories">Category</a>: <ul=
+><li><a href=3D"https://sqlzoo.net/w/index.php?title=3DCategory:Languages_p=
+ages&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"Category:Lan=
+guages pages (page does not exist)">Languages pages</a></li></ul></div></di=
+v>
+	</div>
+</div>
+
+<div id=3D"mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id=3D"mw-head">
+	=09
+<nav id=3D"p-personal" class=3D"vector-menu mw-portlet mw-portlet-personal =
+vector-user-menu-legacy" aria-labelledby=3D"p-personal-label" role=3D"navig=
+ation">
+	<h3 id=3D"p-personal-label" class=3D"vector-menu-heading ">
+		<span class=3D"vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class=3D"vector-menu-content">
+	=09
+		<ul class=3D"vector-menu-content-list"></ul>
+	=09
+	</div>
+</nav>
+
+		<div id=3D"left-navigation">
+		=09
+<nav id=3D"p-namespaces" class=3D"vector-menu mw-portlet mw-portlet-namespa=
+ces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby=3D"p-namespac=
+es-label" role=3D"navigation">
+	<h3 id=3D"p-namespaces-label" class=3D"vector-menu-heading ">
+		<span class=3D"vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class=3D"vector-menu-content">
+	=09
+		<ul class=3D"vector-menu-content-list"></ul>
+	=09
+	</div>
+</nav>
+
+		=09
+<nav id=3D"p-variants" class=3D"vector-menu mw-portlet mw-portlet-variants =
+emptyPortlet vector-menu-dropdown" aria-labelledby=3D"p-variants-label" rol=
+e=3D"navigation">
+	<input type=3D"checkbox" id=3D"p-variants-checkbox" role=3D"button" aria-h=
+aspopup=3D"true" data-event-name=3D"ui.dropdown-p-variants" class=3D"vector=
+-menu-checkbox" aria-labelledby=3D"p-variants-label">
+	<label id=3D"p-variants-label" aria-label=3D"Change language variant" clas=
+s=3D"vector-menu-heading ">
+		<span class=3D"vector-menu-heading-label">British English</span>
+	</label>
+	<div class=3D"vector-menu-content">
+	=09
+		<ul class=3D"vector-menu-content-list"></ul>
+	=09
+	</div>
+</nav>
+
+		</div>
+		<div id=3D"right-navigation">
+		=09
+<nav id=3D"p-views" class=3D"vector-menu mw-portlet mw-portlet-views vector=
+-menu-tabs vector-menu-tabs-legacy" aria-labelledby=3D"p-views-label" role=
+=3D"navigation">
+	<h3 id=3D"p-views-label" class=3D"vector-menu-heading ">
+		<span class=3D"vector-menu-heading-label">Views</span>
+	</h3>
+	<div class=3D"vector-menu-content">
+	=09
+		<ul class=3D"vector-menu-content-list"></ul>
+	=09
+	</div>
+</nav>
+
+		=09
+<nav id=3D"p-cactions" class=3D"vector-menu mw-portlet mw-portlet-cactions =
+emptyPortlet vector-menu-dropdown" aria-labelledby=3D"p-cactions-label" rol=
+e=3D"navigation" title=3D"More options">
+	<input type=3D"checkbox" id=3D"p-cactions-checkbox" role=3D"button" aria-h=
+aspopup=3D"true" data-event-name=3D"ui.dropdown-p-cactions" class=3D"vector=
+-menu-checkbox" aria-labelledby=3D"p-cactions-label">
+	<label id=3D"p-cactions-label" class=3D"vector-menu-heading ">
+		<span class=3D"vector-menu-heading-label">More</span>
+	</label>
+	<div class=3D"vector-menu-content">
+	=09
+		<ul class=3D"vector-menu-content-list"></ul>
+	=09
+	</div>
+</nav>
+
+		=09
+
+
+		</div>
+	<div id=3D"cog-cont"><div title=3D"Wiki Controls" id=3D"cog" style=3D"back=
+ground-image: url(&quot;/design/Cog_font_awesome.svg&quot;); z-index: 1003;=
+ width: 32px; height: 32px; position: absolute; right: 0px; top: 0px;"></di=
+v><ul id=3D"coglist" style=3D"display: none; z-index: 1003;"><li><div id=3D=
+"p-search" role=3D"search" class=3D"vector-search-box-vue  vector-search-bo=
+x-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action=3D"https://sqlzoo.net/w/index.php" id=3D"searchform" class=
+=3D"vector-search-box-form">
+			<div id=3D"simpleSearch" class=3D"vector-search-box-inner" data-search-l=
+oc=3D"header-navigation">
+				<input class=3D"vector-search-box-input" type=3D"search" name=3D"search=
+" placeholder=3D"Search SQLZoo" aria-label=3D"Search SQLZoo" autocapitalize=
+=3D"sentences" title=3D"Search SQLZoo [ctrl-option-f]" accesskey=3D"f" id=
+=3D"searchInput">
+			=09
+				<input id=3D"mw-searchButton" class=3D"searchButton mw-fallbackSearchBu=
+tton" type=3D"submit" name=3D"fulltext" title=3D"Search pages for this text=
+" value=3D"Search">
+				<input id=3D"searchButton" class=3D"searchButton" type=3D"submit" name=
+=3D"go" title=3D"Go to a page with this exact name if it exists" value=3D"G=
+o">
+			</div>
+		</form>
+	</div>
+</div></li><li id=3D"pick-engine"><span>SQL Engine</span><select id=3D"engi=
+ne"><option value=3D"mysql-old" selected=3D"selected">MySQL</option><option=
+ value=3D"mysql">MySQL (new Server)</option><option value=3D"mssql">Microso=
+ft SQL</option><option value=3D"mssql-new">Microsoft SQL pi</option><option=
+ value=3D"postgres">PostgreSQL</option></select></li><li id=3D"pt-login" cl=
+ass=3D"mw-list-item"><a href=3D"https://sqlzoo.net/w/index.php?title=3DSpec=
+ial:UserLogin&amp;returnto=3DSQL+Tutorial" title=3D"You are encouraged to l=
+og in; however, it is not mandatory [ctrl-option-o]" accesskey=3D"o"><span>=
+Log in</span></a></li><li id=3D"ca-view" class=3D"selected mw-list-item col=
+lapsible"><a href=3D"https://sqlzoo.net/wiki/SQL_Tutorial"><span>Read</span=
+></a></li><li id=3D"ca-viewsource" class=3D"mw-list-item collapsible"><a hr=
+ef=3D"https://sqlzoo.net/w/index.php?title=3DSQL_Tutorial&amp;action=3Dedit=
+" title=3D"This page is protected.
+You can view its source [ctrl-option-e]" accesskey=3D"e"><span>View source<=
+/span></a></li><li id=3D"ca-history" class=3D"mw-list-item collapsible"><a =
+href=3D"https://sqlzoo.net/w/index.php?title=3DSQL_Tutorial&amp;action=3Dhi=
+story" title=3D"Past revisions of this page [ctrl-option-h]" accesskey=3D"h=
+"><span>View history</span></a></li><li id=3D"ca-nstab-main" class=3D"selec=
+ted mw-list-item"><a href=3D"https://sqlzoo.net/wiki/SQL_Tutorial" title=3D=
+"View the content page [ctrl-option-c]" accesskey=3D"c"><span>Main Page</sp=
+an></a></li><li id=3D"ca-talk" class=3D"mw-list-item"><a href=3D"https://sq=
+lzoo.net/wiki/Talk:SQL_Tutorial" rel=3D"discussion" title=3D"Discussion abo=
+ut the content page [ctrl-option-t]" accesskey=3D"t"><span>Discussion</span=
+></a></li></ul></div></div>
+=09
+<div id=3D"mw-panel" class=3D"vector-legacy-sidebar">
+	<div id=3D"p-logo" role=3D"banner">
+		<a class=3D"mw-wiki-logo" href=3D"https://sqlzoo.net/wiki/SQL_Tutorial" t=
+itle=3D"Visit the main page"></a>
+	</div>
+=09
+<nav id=3D"p-" class=3D"vector-menu mw-portlet mw-portlet- vector-menu-port=
+al portal" aria-labelledby=3D"p--label" role=3D"navigation">
+	<h3 id=3D"p--label" class=3D"vector-menu-heading ">
+		<span class=3D"vector-menu-heading-label"></span>
+	</h3>
+	<div class=3D"vector-menu-content">
+	=09
+		<ul class=3D"vector-menu-content-list"><li id=3D"n-SELECT-basics" class=
+=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/SELECT_basics"><span>S=
+ELECT basics</span></a><div class=3D"progressbarbg1"><div class=3D"progress=
+bar1" style=3D"width: 0px;"></div></div></li><li id=3D"n-quiz" class=3D"mw-=
+list-item"><a href=3D"https://sqlzoo.net/wiki/SELECT_Quiz"><span>quiz</span=
+></a><div class=3D"progressbarbg1"><div class=3D"progressbar1" style=3D"wid=
+th: 0px;"></div></div></li><li id=3D"n-SELECT-from-world" class=3D"mw-list-=
+item"><a href=3D"https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial"><span>=
+SELECT from world</span></a><div class=3D"progressbarbg1"><div class=3D"pro=
+gressbar1" style=3D"width: 0px;"></div></div></li><li id=3D"n-quiz" class=
+=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/BBC_QUIZ"><span>quiz</=
+span></a><div class=3D"progressbarbg1"><div class=3D"progressbar1" style=3D=
+"width: 0px;"></div></div></li><li id=3D"n-SELECT-from-nobel" class=3D"mw-l=
+ist-item"><a href=3D"https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial"><s=
+pan>SELECT from nobel</span></a><div class=3D"progressbarbg1"><div class=3D=
+"progressbar1" style=3D"width: 0px;"></div></div></li><li id=3D"n-quiz" cla=
+ss=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/Nobel_Quiz"><span>qu=
+iz</span></a><div class=3D"progressbarbg1"><div class=3D"progressbar1" styl=
+e=3D"width: 0px;"></div></div></li><li id=3D"n-SELECT-in-SELECT" class=3D"m=
+w-list-item"><a href=3D"https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutori=
+al"><span>SELECT in SELECT</span></a><div class=3D"progressbarbg1"><div cla=
+ss=3D"progressbar1" style=3D"width: 0px;"></div></div></li><li id=3D"n-quiz=
+" class=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/Nested_SELECT_Q=
+uiz"><span>quiz</span></a><div class=3D"progressbarbg1"><div class=3D"progr=
+essbar1" style=3D"width: 0px;"></div></div></li><li id=3D"n-SUM-and-COUNT" =
+class=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/SUM_and_COUNT"><s=
+pan>SUM and COUNT</span></a><div class=3D"progressbarbg1"><div class=3D"pro=
+gressbar1" style=3D"width: 0px;"></div></div></li><li id=3D"n-quiz" class=
+=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz"><s=
+pan>quiz</span></a><div class=3D"progressbarbg1"><div class=3D"progressbar1=
+" style=3D"width: 0px;"></div></div></li><li id=3D"n-JOIN" class=3D"mw-list=
+-item"><a href=3D"https://sqlzoo.net/wiki/The_JOIN_operation"><span>JOIN</s=
+pan></a><div class=3D"progressbarbg1"><div class=3D"progressbar1" style=3D"=
+width: 0px;"></div></div></li><li id=3D"n-quiz" class=3D"mw-list-item"><a h=
+ref=3D"https://sqlzoo.net/wiki/JOIN_Quiz"><span>quiz</span></a><div class=
+=3D"progressbarbg1"><div class=3D"progressbar1" style=3D"width: 0px;"></div=
+></div></li><li id=3D"n-More-JOIN" class=3D"mw-list-item"><a href=3D"https:=
+//sqlzoo.net/wiki/More_JOIN_operations"><span>More JOIN</span></a><div clas=
+s=3D"progressbarbg1"><div class=3D"progressbar1" style=3D"width: 0px;"></di=
+v></div></li><li id=3D"n-quiz" class=3D"mw-list-item"><a href=3D"https://sq=
+lzoo.net/wiki/JOIN_Quiz_2"><span>quiz</span></a><div class=3D"progressbarbg=
+1"><div class=3D"progressbar1" style=3D"width: 0px;"></div></div></li><li i=
+d=3D"n-Using-NULL" class=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wik=
+i/Using_Null"><span>Using NULL</span></a><div class=3D"progressbarbg1"><div=
+ class=3D"progressbar1" style=3D"width: 0px;"></div></div></li><li id=3D"n-=
+quiz" class=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/Using_Null_=
+Quiz"><span>quiz</span></a><div class=3D"progressbarbg1"><div class=3D"prog=
+ressbar1" style=3D"width: 0px;"></div></div></li><li id=3D"n-Self-JOIN" cla=
+ss=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/Self_join"><span>Sel=
+f JOIN</span></a><div class=3D"progressbarbg1"><div class=3D"progressbar1" =
+style=3D"width: 0px;"></div></div></li><li id=3D"n-quiz" class=3D"mw-list-i=
+tem"><a href=3D"https://sqlzoo.net/wiki/Self_join_Quiz"><span>quiz</span></=
+a><div class=3D"progressbarbg1"><div class=3D"progressbar1" style=3D"width:=
+ 0px;"></div></div></li></ul>
+	=09
+	</div>
+</nav>
+
+=09
+<nav id=3D"p-Reference" class=3D"vector-menu mw-portlet mw-portlet-Referenc=
+e vector-menu-portal portal" aria-labelledby=3D"p-Reference-label" role=3D"=
+navigation">
+	<h3 id=3D"p-Reference-label" class=3D"vector-menu-heading ">
+		<span class=3D"vector-menu-heading-label">Reference</span>
+	</h3>
+	<div class=3D"vector-menu-content">
+	=09
+		<ul class=3D"vector-menu-content-list"><li id=3D"n-NoSQL-zoo" class=3D"mw=
+-list-item"><a href=3D"https://nosqlzoo.net/" rel=3D"nofollow"><span>NoSQL =
+zoo</span></a></li><li id=3D"n-SELECT" class=3D"mw-list-item"><a href=3D"ht=
+tps://sqlzoo.net/wiki/SELECT"><span>SELECT</span></a></li><li id=3D"n-Funct=
+ions" class=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/FUNCTIONS">=
+<span>Functions</span></a></li><li id=3D"n-SELECT-..-WHERE" class=3D"mw-lis=
+t-item"><a href=3D"https://sqlzoo.net/wiki/SELECT_.._WHERE"><span>SELECT ..=
+ WHERE</span></a></li><li id=3D"n-SELECT-..-GROUP-BY" class=3D"mw-list-item=
+"><a href=3D"https://sqlzoo.net/wiki/SELECT_.._GROUP_BY"><span>SELECT .. GR=
+OUP BY</span></a></li><li id=3D"n-SELECT-..-JOIN" class=3D"mw-list-item"><a=
+ href=3D"https://sqlzoo.net/wiki/SELECT_.._JOIN"><span>SELECT .. JOIN</span=
+></a></li><li id=3D"n-SELECT-..-SELECT" class=3D"mw-list-item"><a href=3D"h=
+ttps://sqlzoo.net/wiki/SELECT_.._SELECT"><span>SELECT .. SELECT</span></a><=
+/li><li id=3D"n-INSERT-..-VALUES" class=3D"mw-list-item"><a href=3D"https:/=
+/sqlzoo.net/wiki/INSERT_.._VALUES"><span>INSERT .. VALUES</span></a></li><l=
+i id=3D"n-INSERT-..-SELECT" class=3D"mw-list-item"><a href=3D"https://sqlzo=
+o.net/wiki/INSERT_.._SELECT"><span>INSERT .. SELECT</span></a></li><li id=
+=3D"n-UPDATE" class=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/UPD=
+ATE"><span>UPDATE</span></a></li><li id=3D"n-DELETE" class=3D"mw-list-item"=
+><a href=3D"https://sqlzoo.net/wiki/DELETE"><span>DELETE</span></a></li><li=
+ id=3D"n-CREATE-TABLE" class=3D"mw-list-item"><a href=3D"https://sqlzoo.net=
+/wiki/CREATE_TABLE"><span>CREATE TABLE</span></a></li><li id=3D"n-CREATE-VI=
+EW" class=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/CREATE_VIEW">=
+<span>CREATE VIEW</span></a></li><li id=3D"n-CREATE-INDEX" class=3D"mw-list=
+-item"><a href=3D"https://sqlzoo.net/wiki/CREATE_INDEX"><span>CREATE INDEX<=
+/span></a></li><li id=3D"n-DROP" class=3D"mw-list-item"><a href=3D"https://=
+sqlzoo.net/wiki/DROP"><span>DROP</span></a></li><li id=3D"n-ALTER" class=3D=
+"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/ALTER"><span>ALTER</span>=
+</a></li><li id=3D"n-UNION" class=3D"mw-list-item"><a href=3D"https://sqlzo=
+o.net/wiki/UNION"><span>UNION</span></a></li><li id=3D"n-LEFT-JOIN" class=
+=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/LEFT_JOIN"><span>LEFT =
+JOIN</span></a></li><li id=3D"n-NULL" class=3D"mw-list-item"><a href=3D"htt=
+ps://sqlzoo.net/wiki/NULL"><span>NULL</span></a></li></ul>
+	=09
+	</div>
+</nav>
+
+<nav id=3D"p-tb" class=3D"vector-menu mw-portlet mw-portlet-tb vector-menu-=
+portal portal" aria-labelledby=3D"p-tb-label" role=3D"navigation">
+	<h3 id=3D"p-tb-label" class=3D"vector-menu-heading ">
+		<span class=3D"vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class=3D"vector-menu-content">
+	=09
+		<ul class=3D"vector-menu-content-list"><li id=3D"t-whatlinkshere" class=
+=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/Special:WhatLinksHere/=
+SQL_Tutorial" title=3D"A list of all wiki pages that link here [ctrl-option=
+-j]" accesskey=3D"j"><span>What links here</span></a></li><li id=3D"t-recen=
+tchangeslinked" class=3D"mw-list-item"><a href=3D"https://sqlzoo.net/wiki/S=
+pecial:RecentChangesLinked/SQL_Tutorial" rel=3D"nofollow" title=3D"Recent c=
+hanges in pages linked from this page [ctrl-option-k]" accesskey=3D"k"><spa=
+n>Related changes</span></a></li><li id=3D"t-specialpages" class=3D"mw-list=
+-item"><a href=3D"https://sqlzoo.net/wiki/Special:SpecialPages" title=3D"A =
+list of all special pages [ctrl-option-q]" accesskey=3D"q"><span>Special pa=
+ges</span></a></li><li id=3D"t-print" class=3D"mw-list-item"><a rel=3D"alte=
+rnate" title=3D"Printable version of this page [ctrl-option-p]" accesskey=
+=3D"p"><span>Printable version</span></a></li><li id=3D"t-permalink" class=
+=3D"mw-list-item"><a href=3D"https://sqlzoo.net/w/index.php?title=3DSQL_Tut=
+orial&amp;oldid=3D40218" title=3D"Permanent link to this revision of this p=
+age"><span>Permanent link</span></a></li><li id=3D"t-info" class=3D"mw-list=
+-item"><a href=3D"https://sqlzoo.net/w/index.php?title=3DSQL_Tutorial&amp;a=
+ction=3Dinfo" title=3D"More information about this page"><span>Page informa=
+tion</span></a></li></ul>
+	=09
+	</div>
+</nav>
+
+=09
+</div>
+
+</div>
+
+<footer id=3D"footer" class=3D"mw-footer" role=3D"contentinfo">
+	<ul id=3D"footer-info">
+	<li id=3D"footer-info-lastmod"> This page was last modified on 14 Septembe=
+r 2023, at 11:41.</li>
+</ul>
+
+	<ul id=3D"footer-places">
+	<li id=3D"footer-places-privacy"><a href=3D"https://sqlzoo.net/wiki/SQLZoo=
+:Privacy_policy">Privacy policy</a></li>
+	<li id=3D"footer-places-about"><a href=3D"https://sqlzoo.net/wiki/SQLZoo:A=
+bout">About SQLZoo</a></li>
+	<li id=3D"footer-places-disclaimers"><a href=3D"https://sqlzoo.net/wiki/SQ=
+LZoo:General_disclaimer">Disclaimers</a></li>
+</ul>
+
+	<ul id=3D"footer-icons" class=3D"noprint">
+	<li id=3D"footer-poweredbyico"><a href=3D"https://www.mediawiki.org/"><img=
+ src=3D"https://sqlzoo.net/w/resources/assets/poweredby_mediawiki_88x31.png=
+" alt=3D"Powered by MediaWiki" width=3D"88" height=3D"31" loading=3D"lazy">=
+</a></li>
+</ul>
+
+</footer>
+
+
+
+</body></html>
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e0f95f37-ace8-4902-8cbb-facb52133bda@mhtml.blink
+
+@charset "utf-8";
+
+.ans { display: none; }
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://sqlzoo.net/w/load.php?lang=en-gb&modules=skins.vector.styles.legacy&only=styles&skin=vector
+
+@charset "utf-8";
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after { animation-delay: -0.01ms !important; animation-dur=
+ation: 0.01ms !important; animation-iteration-count: 1 !important; scroll-b=
+ehavior: auto !important; transition-duration: 0ms !important; }
+}
+
+body { margin: 0px; }
+
+main { display: block; }
+
+hr { box-sizing: content-box; height: 0px; overflow: visible; }
+
+abbr[title] { border-bottom: 1px dotted; cursor: help; }
+
+@supports (text-decoration:underline dotted) {
+  abbr[title] { border-bottom: 0px; text-decoration: underline dotted; }
+}
+
+pre, code, tt, kbd, samp { font-family: monospace, monospace; }
+
+sub, sup { line-height: 1; }
+
+img { border: 0px; }
+
+button, input, optgroup, select, textarea { margin: 0px; }
+
+legend { color: inherit; padding: 0px; }
+
+div.tright, div.floatright, table.floatright { clear: right; float: right; =
+}
+
+div.tleft, div.floatleft, table.floatleft { float: left; clear: left; }
+
+div.floatright, table.floatright { margin: 0px 0px 0.5em 0.5em; }
+
+div.floatleft, table.floatleft { margin: 0px 0.5em 0.5em 0px; }
+
+div.thumb { width: auto; background-color: transparent; margin-bottom: 0.5e=
+m; }
+
+div.tleft { margin: 0.5em 1.4em 1.3em 0px; }
+
+div.tright { margin: 0.5em 0px 1.3em 1.4em; }
+
+.thumbcaption { text-align: left; line-height: 1.4em; padding: 3px; }
+
+.thumbcaption:empty { padding: 0px; }
+
+div.thumbinner { padding: 3px; text-align: center; overflow: hidden; }
+
+figure[typeof~=3D"mw:File"], figure[typeof~=3D"mw:File/Frameless"] { margin=
+: 0px; }
+
+.mw-body-content figure[typeof~=3D"mw:File"] > a, .mw-body-content figure[t=
+ypeof~=3D"mw:File/Frameless"] > a { border: 0px; }
+
+figure[typeof~=3D"mw:File"].mw-halign-right, figure[typeof~=3D"mw:File/Fram=
+eless"].mw-halign-right { margin: 0px 0px 0.5em 0.5em; clear: right; float:=
+ right; }
+
+figure[typeof~=3D"mw:File"].mw-halign-left, figure[typeof~=3D"mw:File/Frame=
+less"].mw-halign-left { margin: 0px 0.5em 0.5em 0px; clear: left; float: le=
+ft; }
+
+figure[typeof~=3D"mw:File"].mw-halign-none, figure[typeof~=3D"mw:File/Frame=
+less"].mw-halign-none { clear: none; float: none; }
+
+figure[typeof~=3D"mw:File"].mw-halign-center, figure[typeof~=3D"mw:File/Fra=
+meless"].mw-halign-center { margin: 0px auto; display: table; border-collap=
+se: collapse; clear: none; float: none; }
+
+figure[typeof~=3D"mw:File"] > figcaption, figure[typeof~=3D"mw:File/Framele=
+ss"] > figcaption { display: none; }
+
+figure[typeof~=3D"mw:File/Thumb"], figure[typeof~=3D"mw:File/Frame"] { marg=
+in: 0px 0px 0.5em; display: table; text-align: center; border-collapse: col=
+lapse; line-height: 0; }
+
+.mw-body-content figure[typeof~=3D"mw:File/Thumb"] > a, .mw-body-content fi=
+gure[typeof~=3D"mw:File/Frame"] > a { border: 0px; }
+
+.mw-content-ltr figure[typeof~=3D"mw:File/Thumb"], .mw-content-ltr figure[t=
+ypeof~=3D"mw:File/Frame"] { margin: 0.5em 0px 1.3em 1.4em; clear: right; fl=
+oat: right; }
+
+.mw-content-rtl figure[typeof~=3D"mw:File/Thumb"], .mw-content-rtl figure[t=
+ypeof~=3D"mw:File/Frame"] { margin: 0.5em 1.4em 1.3em 0px; clear: left; flo=
+at: left; }
+
+figure[typeof~=3D"mw:File/Thumb"].mw-halign-right, figure[typeof~=3D"mw:Fil=
+e/Frame"].mw-halign-right { margin: 0.5em 0px 1.3em 1.4em; clear: right; fl=
+oat: right; }
+
+figure[typeof~=3D"mw:File/Thumb"].mw-halign-left, figure[typeof~=3D"mw:File=
+/Frame"].mw-halign-left { margin: 0.5em 1.4em 1.3em 0px; clear: left; float=
+: left; }
+
+figure[typeof~=3D"mw:File/Thumb"].mw-halign-none, figure[typeof~=3D"mw:File=
+/Frame"].mw-halign-none { margin: 0px 0px 0.5em; clear: none; float: none; =
+}
+
+figure[typeof~=3D"mw:File/Thumb"].mw-halign-center, figure[typeof~=3D"mw:Fi=
+le/Frame"].mw-halign-center { margin: 0px auto 0.5em; clear: none; float: n=
+one; }
+
+figure[typeof~=3D"mw:File/Thumb"] > a:first-child, figure[typeof~=3D"mw:Fil=
+e/Frame"] > a:first-child, figure[typeof~=3D"mw:File/Thumb"] > span:first-c=
+hild, figure[typeof~=3D"mw:File/Frame"] > span:first-child { }
+
+figure[typeof~=3D"mw:File/Thumb"] > a:first-child > :first-child, figure[ty=
+peof~=3D"mw:File/Frame"] > a:first-child > :first-child, figure[typeof~=3D"=
+mw:File/Thumb"] > span:first-child > :first-child, figure[typeof~=3D"mw:Fil=
+e/Frame"] > span:first-child > :first-child { margin: 3px; }
+
+figure[typeof~=3D"mw:File/Thumb"] > a:first-child > span.mw-broken-media, f=
+igure[typeof~=3D"mw:File/Frame"] > a:first-child > span.mw-broken-media, fi=
+gure[typeof~=3D"mw:File/Thumb"] > span:first-child > span.mw-broken-media, =
+figure[typeof~=3D"mw:File/Frame"] > span:first-child > span.mw-broken-media=
+ { display: inline-block; line-height: 1.6em; margin: 3px 4px; width: 180px=
+; font-size: 94%; }
+
+figure[typeof~=3D"mw:File/Thumb"] > figcaption, figure[typeof~=3D"mw:File/F=
+rame"] > figcaption { display: table-caption; caption-side: bottom; line-he=
+ight: 1.4em; word-break: break-word; padding: 0px 6px 6px; }
+
+.mw-content-ltr figure[typeof~=3D"mw:File/Thumb"] > figcaption, .mw-content=
+-ltr figure[typeof~=3D"mw:File/Frame"] > figcaption { text-align: left; }
+
+.mw-content-rtl figure[typeof~=3D"mw:File/Thumb"] > figcaption, .mw-content=
+-rtl figure[typeof~=3D"mw:File/Frame"] > figcaption { text-align: right; }
+
+figure[typeof~=3D"mw:File/Frame"] > figcaption:empty { padding-bottom: 0px;=
+ }
+
+figure[typeof~=3D"mw:File/Thumb"] > figcaption:empty { padding-bottom: 3px;=
+ }
+
+.mw-valign-middle > span:first-child > :first-child, .mw-valign-middle > a:=
+first-child > :first-child { vertical-align: middle; }
+
+.mw-valign-baseline > span:first-child > :first-child, .mw-valign-baseline =
+> a:first-child > :first-child { vertical-align: baseline; }
+
+.mw-valign-sub > span:first-child > :first-child, .mw-valign-sub > a:first-=
+child > :first-child { vertical-align: sub; }
+
+.mw-valign-super > span:first-child > :first-child, .mw-valign-super > a:fi=
+rst-child > :first-child { vertical-align: super; }
+
+.mw-valign-top > span:first-child > :first-child, .mw-valign-top > a:first-=
+child > :first-child { vertical-align: top; }
+
+.mw-valign-text-top > span:first-child > :first-child, .mw-valign-text-top =
+> a:first-child > :first-child { vertical-align: text-top; }
+
+.mw-valign-bottom > span:first-child > :first-child, .mw-valign-bottom > a:=
+first-child > :first-child { vertical-align: bottom; }
+
+.mw-valign-text-bottom > span:first-child > :first-child, .mw-valign-text-b=
+ottom > a:first-child > :first-child { vertical-align: text-bottom; }
+
+.mw-message-box { color: rgb(0, 0, 0); box-sizing: border-box; margin-botto=
+m: 16px; border: 1px solid rgb(162, 169, 177); padding: 12px 24px; overflow=
+-wrap: break-word; overflow: hidden; background-color: rgb(234, 236, 240); =
+}
+
+.mw-message-box > :only-child { margin: 0px; }
+
+.mw-message-box h2 { color: inherit; display: block; border: 0px; font-size=
+: 1em; font-weight: bold; }
+
+.mw-message-box .mw-logevent-loglines li { font-size: 90%; }
+
+.mw-message-box-error { background-color: rgb(254, 231, 230); border-color:=
+ rgb(221, 51, 51); }
+
+.mw-message-box-warning { background-color: rgb(254, 246, 231); border-colo=
+r: rgb(255, 204, 51); }
+
+.mw-message-box-success { background-color: rgb(213, 253, 244); border-colo=
+r: rgb(20, 134, 109); }
+
+.toctogglecheckbox:checked ~ ul { display: none; }
+
+@media screen {
+  html, body { height: 100%; }
+  :focus { outline-color: rgb(51, 102, 204); }
+  html { font-size: 100%; }
+  html, body { font-family: sans-serif; }
+  ul { list-style-image: url("/w/skins/Vector/resources/common/images/bulle=
+t-icon.svg?d4515"); }
+  pre, .mw-code { line-height: 1.3; }
+  .mw-jump-link:not(:focus) { display: block; clip: rect(1px, 1px, 1px, 1px=
+); width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overfl=
+ow: hidden; position: absolute !important; }
+  .mw-editsection, .mw-editsection-like { font-family: sans-serif; }
+  .mw-body h1, .mw-body-content h1, .mw-body-content h2 { margin-bottom: 0.=
+25em; padding: 0px; font-family: "Linux Libertine", Georgia, Times, serif; =
+line-height: 1.3; }
+  .mw-body h1:lang(ja), .mw-body-content h1:lang(ja), .mw-body-content h2:l=
+ang(ja), .mw-body h1:lang(he), .mw-body-content h1:lang(he), .mw-body-conte=
+nt h2:lang(he), .mw-body h1:lang(ko), .mw-body-content h1:lang(ko), .mw-bod=
+y-content h2:lang(ko) { font-family: sans-serif; }
+  .mw-body h1:lang(ckb), .mw-body-content h1:lang(ckb), .mw-body-content h2=
+:lang(ckb) { font-family: Scheherazade, "Linux Libertine", Georgia, Times, =
+serif; }
+  .mw-body h1:lang(my), .mw-body-content h1:lang(my), .mw-body-content h2:l=
+ang(my) { line-height: normal; }
+  .mw-body h1, .mw-body-content h1 { font-size: 1.8em; }
+  .vector-body { font-size: calc(0.875em); line-height: 1.6; }
+  .vector-body #siteSub { font-size: 12.8px; }
+  .vector-body h1 { margin-top: 1em; }
+  .vector-body h2 { margin-top: 1em; font-size: 1.5em; }
+  .vector-body h3, .vector-body h4, .vector-body h5, .vector-body h6 { marg=
+in-top: 0.3em; margin-bottom: 0px; padding-bottom: 0px; line-height: 1.6; }
+  .vector-body h3 { font-size: 1.2em; }
+  .vector-body h3, .vector-body h4 { font-weight: bold; }
+  .vector-body h4, .vector-body h5, .vector-body h6 { font-size: 100%; }
+  .vector-body .toc h2 { font-family: sans-serif; font-size: 100%; }
+  .vector-body p { margin: 0.5em 0px; }
+  .vector-body blockquote { border-left: 4px solid rgb(234, 236, 240); padd=
+ing: 8px 32px; }
+  .vector-body blockquote > :first-child { margin-top: 0px; }
+  .vector-body blockquote > :last-child { margin-bottom: 0px; }
+  .mw-parser-output a { overflow-wrap: break-word; }
+  .mw-parser-output a.external { background-image: url("/w/skins/Vector/res=
+ources/common/images/link-external-small-ltr-progressive.svg?2cd31"); backg=
+round-position: right center; background-repeat: no-repeat; background-size=
+: 0.857em; padding-right: 1em; }
+  .mw-parser-output a.external.free { word-break: break-all; }
+  .mw-indicators { font-size: 0.875em; line-height: 1.6; position: relative=
+; float: right; }
+  .mw-indicator { display: inline-block; }
+  #localNotice { margin-bottom: 0.9em; }
+  #siteNotice { font-size: 0.8em; margin: 24px 0px; position: relative; tex=
+t-align: center; }
+  .vector-menu-dropdown { position: relative; }
+  .vector-menu-dropdown > .vector-menu-content { position: absolute; top: 1=
+00%; left: -1px; opacity: 0; height: 0px; visibility: hidden; overflow: hid=
+den; margin: 0px; padding: 0px; z-index: 3; }
+  .vector-menu-dropdown > .vector-menu-content-list { list-style: none; }
+  .vector-menu-dropdown .mw-list-item { padding: 0px; margin: 0px; }
+  .vector-menu-dropdown .mw-list-item a { cursor: pointer; }
+  .vector-menu-dropdown .selected a, .vector-menu-dropdown .selected a:visi=
+ted { color: rgb(32, 33, 34); text-decoration: none; }
+  .vector-menu-checkbox { cursor: pointer; position: absolute; top: 0px; le=
+ft: 0px; z-index: 1; opacity: 0; width: 100%; height: 100%; margin: 0px; pa=
+dding: 0px; display: none; }
+  .vector-menu-checkbox:checked ~ .vector-menu-content { opacity: 1; visibi=
+lity: visible; height: auto; }
+  :not(:checked) > .vector-menu-checkbox { display: block; }
+  .vector-menu-checkbox:focus + .vector-menu-heading { outline: -webkit-foc=
+us-ring-color auto; }
+  .vector-search-box-inner { position: relative; height: 100%; }
+  .vector-search-box-input { background-color: rgba(255, 255, 255, 0.5); co=
+lor: rgb(0, 0, 0); width: 100%; height: 2.15385em; box-sizing: border-box; =
+border: 1px solid rgb(162, 169, 177); border-radius: 2px; padding: 5px 2.15=
+385em 5px 0.4em; box-shadow: transparent 0px 0px 0px 1px inset; font-family=
+: inherit; font-size: 0.8125em; direction: ltr; transition-property: border=
+-color, box-shadow; transition-duration: 250ms; appearance: none; }
+  .vector-search-box-inner:hover .vector-search-box-input { border-color: r=
+gb(114, 119, 125); }
+  .vector-search-box-input:focus, .vector-search-box-inner:hover .vector-se=
+arch-box-input:focus { outline: 0px; border-color: rgb(51, 102, 204); box-s=
+hadow: rgb(51, 102, 204) 0px 0px 0px 1px inset; }
+  .vector-search-box-input::-webkit-input-placeholder { color: rgb(114, 119=
+, 125); opacity: 1; }
+  .vector-search-box-input::placeholder { color: rgb(114, 119, 125); opacit=
+y: 1; }
+  .vector-search-box-input::-webkit-search-decoration, .vector-search-box-i=
+nput::-webkit-search-cancel-button, .vector-search-box-input::-webkit-searc=
+h-results-button, .vector-search-box-input::-webkit-search-results-decorati=
+on { display: none; }
+  .searchButton { background-color: transparent; position: absolute; top: 1=
+px; bottom: 1px; right: 1px; min-width: 28px; width: 2.15385em; border: 0px=
+; padding: 0px; cursor: pointer; font-size: 0.8125em; direction: ltr; text-=
+indent: -99999px; white-space: nowrap; overflow: hidden; z-index: 1; }
+  .searchButton[name=3D"go"] { background: url("/w/skins/Vector/resources/c=
+ommon/images/search.svg?ac00d") center center / 1.23077em no-repeat; opacit=
+y: 0.67; }
+  .search-toggle { display: block; float: right; }
+  .vector-search-box-collapses > div { display: none; }
+  #p-logo { width: 10em; height: 160px; margin-bottom: 1em; }
+  #p-logo a { background-position: center center; background-repeat: no-rep=
+eat; display: block; width: 10em; height: 160px; text-decoration: none; }
+  .mw-footer { direction: ltr; }
+  .mw-footer ul { list-style: none; margin: 0px; padding: 0px; }
+  .mw-footer li { color: rgb(32, 33, 34); margin: 0px; padding: 0.5em 0px; =
+font-size: 0.75em; }
+  #footer-icons { float: right; }
+  #footer-icons li { float: left; margin-left: 0.5em; line-height: 2; text-=
+align: right; }
+  #footer-info li { line-height: 1.4; }
+  #footer-places li { float: left; margin-right: 1em; line-height: 2; }
+}
+
+@media screen and (min-width: 1000px) {
+  .search-toggle { display: none; }
+}
+
+@media screen and (min-width: 1000px) {
+  .vector-search-box-collapses > div { display: block; }
+}
+
+@media print {
+  .toc, body { padding: 10px; font-family: "Linux Libertine", Georgia, Time=
+s, serif; }
+  .printfooter, .mw-footer, .thumb, figure, table, ol, dl, ul, h3, h4, h5, =
+h6 { font-family: sans-serif; }
+  img { font-family: "Linux Libertine", Georgia, Times, serif; }
+  .mw-body a:not(.image) { border-bottom: 1px solid rgb(170, 170, 170); }
+  .firstHeading { font-size: 25pt; line-height: 28pt; margin-bottom: 20px; =
+padding-bottom: 5px; }
+  .firstHeading, h2 { overflow: hidden; border-bottom: 2px solid rgb(0, 0, =
+0); }
+  h3, h4, h5, h6 { margin: 30px 0px 0px; }
+  h2, h3, h4, h5, h6 { padding: 0px; position: relative; }
+  h2 { font-size: 18pt; line-height: 24pt; margin-bottom: 0.25em; }
+  h3 { font-size: 14pt; line-height: 20pt; }
+  h4, h5, h6 { font-size: 12pt; line-height: 16pt; }
+  p { font-size: 12pt; line-height: 16pt; margin-top: 5px; text-align: just=
+ify; }
+  p::before { content: ""; display: block; width: 120pt; overflow: hidden; =
+}
+  blockquote { border-left: 2px solid rgb(0, 0, 0); padding-left: 20px; }
+  ol, ul { margin: 10px 0px 0px 1.6em; padding: 0px; }
+  ol li, ul li { padding: 2px 0px; font-size: 12pt; }
+  table ol li, table ul li { font-size: inherit; }
+  .toc { break-before: avoid; break-after: avoid; background: none; border:=
+ 0px; display: table; }
+  .toc a { border: 0px; font-weight: normal; }
+  .toc > ul > li { margin-bottom: 4px; font-weight: bold; }
+  .toc ul { margin: 0px; list-style: none; }
+  .toc ul ul { padding-left: 30px; }
+  .toc li.toclevel-1 > a { font-size: 12pt; font-weight: bold; }
+  #mw-navigation, .noprint, .mw-jump-link, .mw-portlet-lang, .toc .tocnumbe=
+r, .mw-checkbox-hack-checkbox, .mw-checkbox-hack-button { display: none; }
+  .printfooter { margin-top: 10px; border-top: 3px solid rgb(0, 0, 0); padd=
+ing-top: 10px; font-size: 10pt; clear: both; }
+  .mw-footer { margin-top: 12px; border-top: 1px solid rgb(238, 238, 238); =
+padding-top: 5px; }
+  #footer-info { margin: 0px; padding: 0px; }
+  #footer-info li { color: rgb(153, 153, 153); list-style: none; display: b=
+lock; padding-bottom: 10px; font-size: 10pt; }
+  #footer-info li a { color: rgb(153, 153, 153) !important; }
+  #footer-info-lastmod { color: rgb(0, 0, 0); font-size: 12pt; font-weight:=
+ bold; }
+}
+
+@media screen {
+  body { background-color: rgb(246, 246, 246); overflow-y: scroll; }
+  .mw-body, .parsoid-body { background-color: rgb(255, 255, 255); color: rg=
+b(32, 33, 34); direction: ltr; padding: 1em; }
+  #p-personal { position: absolute; top: 6px; right: 0.75em; z-index: 100; =
+}
+  #p-personal ul { padding-left: 10em; }
+  .mw-body, #mw-data-after-content { margin-left: 10em; }
+  .mw-body { margin-top: -1px; border-width: 1px 0px 1px 1px; border-style:=
+ solid; border-color: rgb(167, 215, 249); border-image: initial; }
+  .mw-body .firstHeading { overflow: visible; }
+  .mw-indicators { z-index: 1; }
+  .vector-body { position: relative; z-index: 0; }
+  #mw-page-base { background-color: rgb(251, 251, 251); background-image: l=
+inear-gradient(rgb(255, 255, 255) 50%, rgb(246, 246, 246) 100%); background=
+-position: left bottom; height: 5em; }
+  #mw-head-base { margin-top: -5em; margin-left: 10em; height: 5em; }
+  #mw-navigation h2 { position: absolute; top: -9999px; }
+  #mw-head { position: absolute; top: 0px; right: 0px; width: 100%; }
+  #left-navigation { float: left; margin-left: 10em; margin-top: 2.5em; mar=
+gin-bottom: -2.5em; }
+  #right-navigation { float: right; margin-top: 2.5em; }
+  .vector-search-box { float: left; margin-right: 0.5em; margin-left: 0.5em=
+; }
+  .vector-search-box form { margin: 0.5em 0px 0px; }
+  .vector-search-box-inner { min-width: 5em; width: 20vw; max-width: 20em; =
+}
+  #mw-panel { position: absolute; top: 0px; width: 10em; left: 0px; }
+  #p-logo + .mw-portlet .vector-menu-heading { display: none; }
+  .mw-footer { margin-left: 10em; margin-top: 0px; padding: 0.75em; }
+  .mw-content-ltr { direction: ltr; }
+  .mw-content-rtl { direction: rtl; }
+  .mw-portlet .vector-menu-heading { display: none; }
+  .mw-portlet ul { list-style: none; margin: 0px; }
+  .mixin-vector-legacy-menu-heading-arrow { content: ""; background: url("/=
+w/skins/Vector/resources/common/images/arrow-down.svg?9426f") 100% 50% no-r=
+epeat; width: 1.23077em; height: 1.23077em; }
+  .vector-menu-checkbox:checked + .vector-menu-heading::after { transform: =
+scaleY(-1); }
+  .vector-menu-dropdown { direction: ltr; float: left; cursor: pointer; pos=
+ition: relative; line-height: 1.125em; }
+  .vector-menu-dropdown .vector-menu-heading { display: flex; color: rgb(84=
+, 89, 93); font-size: 0.8125em; background-position: right bottom; margin: =
+0px -1px 0px 0px; padding: 1.25em 8px 6px; font-weight: normal; }
+  .vector-menu-dropdown .vector-menu-heading::after { content: ""; backgrou=
+nd: url("/w/skins/Vector/resources/common/images/arrow-down.svg?9426f") 100=
+% 50% no-repeat; width: 1.23077em; height: 1.23077em; opacity: 1; }
+  .vector-menu-dropdown .vector-menu-heading:hover, .vector-menu-dropdown .=
+vector-menu-heading:focus { color: rgb(32, 33, 34); }
+  .vector-menu-dropdown .vector-menu-heading:hover::after, .vector-menu-dro=
+pdown .vector-menu-heading:focus::after { opacity: 1; }
+  .vector-menu-dropdown .vector-menu-content { line-height: 1.125em; backgr=
+ound-color: rgb(255, 255, 255); border-width: 0px 1px 1px; border-style: so=
+lid; border-color: rgb(162, 169, 177); border-image: initial; box-shadow: r=
+gba(0, 0, 0, 0.1) 0px 1px 1px 0px; transition-property: opacity; transition=
+-duration: 100ms; min-width: 100%; }
+  .vector-menu-dropdown:hover .vector-menu-content { opacity: 1; visibility=
+: visible; height: auto; }
+  .vector-menu-dropdown .mw-list-item { text-align: left; line-height: 1em;=
+ }
+  .vector-menu-dropdown .mw-list-item a:not(.mw-ui-icon) { font-size: 0.812=
+5em; }
+  .vector-menu-dropdown .mw-list-item a { display: block; white-space: nowr=
+ap; padding: 0.625em; color: rgb(6, 69, 173); }
+  .vector-menu-dropdown .mw-list-item.selected a, .vector-menu-dropdown .mw=
+-list-item.selected a:visited { color: rgb(32, 33, 34); text-decoration: no=
+ne; }
+  .vector-menu-tabs-legacy { background-position: left bottom; float: left;=
+ height: 2.5em; padding-left: 1px; }
+  .vector-menu-tabs-legacy .vector-menu-heading { display: none; }
+  .vector-menu-tabs-legacy ul { float: left; height: 100%; list-style: none=
+; margin: 0px; padding: 0px; }
+  .vector-menu-tabs-legacy li { background-image: linear-gradient(to top, r=
+gb(119, 193, 246) 0px, rgb(232, 242, 248) 1px, rgb(255, 255, 255) 100%); ba=
+ckground-position: left bottom; background-repeat: repeat-x; float: left; d=
+isplay: block; height: 100%; margin: 0px; padding: 0px; line-height: 1.125e=
+m; white-space: nowrap; }
+  .vector-menu-tabs-legacy li a { background-position: right bottom; color:=
+ rgb(6, 69, 173); box-sizing: border-box; display: block; float: left; heig=
+ht: 3.07692em; position: relative; padding-top: 1.25em; padding-left: 8px; =
+padding-right: 8px; font-size: 0.8125em; cursor: pointer; }
+  .vector-menu-tabs-legacy .new a, .vector-menu-tabs-legacy .new a:visited =
+{ color: rgb(186, 0, 0); }
+  .vector-menu-tabs-legacy .selected { background: rgb(255, 255, 255); }
+  .vector-menu-tabs-legacy .selected a, .vector-menu-tabs-legacy .selected =
+a:visited { color: rgb(32, 33, 34); text-decoration: none; }
+  .vector-menu-tabs-legacy .icon a { background-position: right bottom; bac=
+kground-repeat: no-repeat; }
+  .vector-menu-tabs, .vector-menu-tabs a, #mw-head .vector-menu-dropdown .v=
+ector-menu-heading { background-image: linear-gradient(rgba(167, 215, 249, =
+0) 0px, rgb(167, 215, 249) 100%); background-repeat: no-repeat; background-=
+size: 1px 100%; }
+  #mw-head .vector-menu-dropdown .vector-menu-heading { background-position=
+: right bottom; }
+  .vector-legacy-sidebar .vector-menu-portal { margin: 0px 0.6em 0px 0.7em;=
+ padding: 0.25em 0px; direction: ltr; }
+  .vector-legacy-sidebar .vector-menu-portal .vector-menu-heading { display=
+: block; color: rgb(84, 89, 93); margin: 0.5em 0px 0px 0.666667em; border: =
+0px; padding: 0.25em 0px; font-size: 0.75em; font-weight: normal; cursor: d=
+efault; background-image: linear-gradient(to right, rgba(200, 204, 209, 0) =
+0px, rgb(200, 204, 209) 33%, rgb(200, 204, 209) 66%, rgba(200, 204, 209, 0)=
+ 100%); background-position: center bottom; background-repeat: no-repeat; b=
+ackground-size: 100% 1px; }
+  .vector-legacy-sidebar .vector-menu-portal .vector-menu-content { margin-=
+left: 0.5em; padding-top: 0px; }
+  .vector-legacy-sidebar .vector-menu-portal .vector-menu-content ul { list=
+-style: none; margin: 0px; padding-top: 0.3em; }
+  .vector-legacy-sidebar .vector-menu-portal .vector-menu-content li { marg=
+in: 0px; padding: 0.25em 0px; font-size: 0.75em; line-height: 1.125em; over=
+flow-wrap: break-word; }
+  .vector-legacy-sidebar .vector-menu-portal .vector-menu-content li a { co=
+lor: rgb(6, 69, 173); }
+  .vector-legacy-sidebar .vector-menu-portal .vector-menu-content li a:visi=
+ted { color: rgb(11, 0, 128); }
+  .vector-search-box h3 { display: block; clip: rect(1px, 1px, 1px, 1px); w=
+idth: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: =
+hidden; position: absolute !important; }
+  #mw-panel { font-size: inherit; }
+  #mw-panel nav:first-child { background-image: none; }
+  #mw-panel nav:first-child .vector-menu-heading { display: none; }
+  #mw-panel nav:first-child .vector-menu-content { margin-left: 0.5em; }
+  @keyframes rotate {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+  .vector-menu-tabs .mw-watchlink.icon a { width: 2.15385em; height: 0px; p=
+adding: 3.07692em 0px 0px; overflow: hidden; }
+  .vector-menu-tabs .mw-watchlink.icon a::before { background-repeat: no-re=
+peat; background-position: 50% 50%; content: ""; display: block; position: =
+absolute; top: 1.07692em; left: 0.384615em; width: 1.23077em; height: 1.230=
+77em; }
+  .vector-menu-tabs #ca-unwatch.icon a::before { background-image: url("/w/=
+skins/Vector/resources/common/images/unwatch-icon.svg?4152f"); }
+  .vector-menu-tabs #ca-unwatch.mw-watchlink-temp.icon a::before { backgrou=
+nd-image: url("/w/skins/Vector/resources/common/images/unwatch-temp-icon.sv=
+g?195f5"); }
+  .vector-menu-tabs #ca-watch.icon a::before { background-image: url("/w/sk=
+ins/Vector/resources/common/images/watch-icon.svg?6ab6f"); }
+  .vector-menu-tabs #ca-unwatch.icon a:hover::before, .vector-menu-tabs #ca=
+-unwatch.icon a:focus::before { background-image: url("/w/skins/Vector/reso=
+urces/common/images/unwatch-icon-hl.svg?a4731"); }
+  .vector-menu-tabs #ca-unwatch.mw-watchlink-temp.icon a:hover::before, .ve=
+ctor-menu-tabs #ca-unwatch.mw-watchlink-temp.icon a:focus::before { backgro=
+und-image: url("/w/skins/Vector/resources/common/images/unwatch-temp-icon-h=
+l.svg?f3db6"); }
+  .vector-menu-tabs #ca-watch.icon a:hover::before, .vector-menu-tabs #ca-w=
+atch.icon a:focus::before { background-image: url("/w/skins/Vector/resource=
+s/common/images/watch-icon-hl.svg?9bf90"); }
+  .vector-menu-tabs #ca-unwatch.icon .loading::before, .vector-menu-tabs #c=
+a-watch.icon .loading::before { animation: 700ms linear 0s infinite normal =
+none running rotate; outline: 0px; cursor: default; pointer-events: none; t=
+ransform-origin: 50% 50%; }
+  .vector-user-menu-legacy { }
+  .vector-user-menu-legacy li { font-size: 0.75em; float: left; margin-left=
+: 0.75em; padding-top: 0.5em; line-height: 1.16667; }
+  .vector-user-menu-legacy #pt-anonuserpage, .vector-user-menu-legacy #pt-u=
+serpage a { background-position: left 0.333333em; background-image: url("/w=
+/skins/Vector/resources/skins.vector.styles.legacy/images/user-avatar.svg?b=
+7f58"); background-repeat: no-repeat; background-size: 1.16667em 1.16667em;=
+ padding-top: 0.5em; padding-left: 1.5em; }
+  .vector-user-menu-legacy #pt-anonuserpage.mw-userpage-tmp, .vector-user-m=
+enu-legacy #pt-userpage a.mw-userpage-tmp { font-weight: normal; opacity: 0=
+.67; background-image: url("/w/skins/Vector/resources/skins.vector.styles.l=
+egacy/images/userAnonymous.svg?aec6b"); }
+  .vector-user-menu-legacy #pt-userpage { padding-top: 0px; }
+  .vector-user-menu-legacy #pt-userpage a { display: inline-block; }
+  .vector-user-menu-legacy #pt-anonuserpage { color: rgb(84, 89, 93); }
+  .vector-user-menu-legacy .vector-menu-content-list { display: flex; flex-=
+wrap: wrap; flex-grow: 1; justify-content: flex-end; align-items: baseline;=
+ }
+}
+
+@media screen and (min-width: 982px) {
+  .mw-body, #mw-head-base, #left-navigation, #mw-data-after-content, .mw-fo=
+oter { margin-left: 11em; }
+  .mw-body { padding: 1.25em 1.5em 1.5em; }
+  .mw-footer { padding: 1.25em; }
+  #mw-panel { padding-left: 0.5em; }
+  .vector-search-box { margin-right: 1em; }
+  #p-personal { right: 1em; }
+}
+
+@media print {
+  .noprint, .mw-cite-backlink, .mw-redirectedfrom, .patrollink, #column-one=
+, #footer-places, #mw-navigation, #f-poweredbyico, #f-copyrightico, li#abou=
+t, li#disclaimer, li#mobileview, li#privacy { display: none; }
+  #footer { background: rgb(255, 255, 255); color: rgb(0, 0, 0); margin-top=
+: 1em; border-top: 1pt solid rgb(170, 170, 170); padding-top: 5px; directio=
+n: ltr; }
+}
+
+.mw-wiki-logo { background-image: url("/design/sql_zoo_logo06.png"); }
+
+@media print {
+  table.floatright, div.floatright { border: 0px; }
+  table.floatleft, div.floatleft { border: 0px; }
+  div.thumb { break-inside: avoid; }
+  div.thumb a { border-bottom: 0px; }
+  div.thumbinner { border: 1px; background-color: rgb(255, 255, 255); font-=
+size: 10pt; color: rgb(102, 102, 102); border-radius: 2px; min-width: 100px=
+; }
+  .thumbborder { border: 1pt solid rgb(221, 221, 221); }
+  .magnify { display: none; }
+  figure[typeof~=3D"mw:File/Thumb"], figure[typeof~=3D"mw:File/Frame"] { bo=
+rder-width: 1px 1px 0px; border-style: initial; border-color: initial; bord=
+er-image: initial; background-color: rgb(255, 255, 255); }
+  figure[typeof~=3D"mw:File/Thumb"] > a:first-child > :first-child:not(.mw-=
+broken-media), figure[typeof~=3D"mw:File/Frame"] > a:first-child > :first-c=
+hild:not(.mw-broken-media), figure[typeof~=3D"mw:File/Thumb"] > span:first-=
+child > :first-child:not(.mw-broken-media), figure[typeof~=3D"mw:File/Frame=
+"] > span:first-child > :first-child:not(.mw-broken-media) { border: 1px; }
+  figure[typeof~=3D"mw:File/Thumb"] > figcaption, figure[typeof~=3D"mw:File=
+/Frame"] > figcaption { border-width: 0px 1px 1px; border-style: initial; b=
+order-color: initial; border-image: initial; background-color: rgb(255, 255=
+, 255); font-size: 10pt; color: rgb(102, 102, 102); }
+  .mw-image-border > a:first-child > :first-child:not(.mw-broken-media), .m=
+w-image-border > span:first-child > :first-child:not(.mw-broken-media) { bo=
+rder: 1pt solid rgb(221, 221, 221); }
+  .mw-parser-output a.external { }
+  .mw-parser-output a.external.text::after, .mw-parser-output a.external.au=
+tonumber::after { content: " (" attr(href) ")"; word-break: break-all; over=
+flow-wrap: break-word; }
+  .mw-parser-output a.external.text[href^=3D"//"]::after, .mw-parser-output=
+ a.external.autonumber[href^=3D"//"]::after { content: " (https:" attr(href=
+) ")"; }
+  .wikitable { background: rgb(255, 255, 255); margin: 1em 0px; border: 1pt=
+ solid rgb(170, 170, 170); border-collapse: collapse; font-size: 10pt; brea=
+k-inside: avoid; }
+  .wikitable > caption { padding: 5px; font-size: 10pt; }
+  .wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wi=
+kitable > * > tr > td { border: 1pt solid rgb(170, 170, 170); padding: 0.4e=
+m 0.6em; background: rgb(255, 255, 255) !important; color: rgb(0, 0, 0) !im=
+portant; }
+  .wikitable > tr > th, .wikitable > * > tr > th { text-align: center; }
+  table.listing, table.listing td { border: 1pt solid rgb(0, 0, 0); border-=
+collapse: collapse; }
+  .catlinks ul { display: inline; padding: 0px; list-style: none; }
+  .catlinks li { display: inline-block; line-height: 1.15; margin: 0.1em 0p=
+x; border-left: 1pt solid rgb(170, 170, 170); padding: 0px 0.4em; }
+  .catlinks li:first-child { border-left: 0px; padding-left: 0.2em; }
+  .mw-hidden-catlinks, .catlinks { display: none; }
+  .mw-editsection, .mw-editsection-like, .mw-indicators, #siteNotice, .user=
+message { display: none; }
+  .printfooter { padding: 1em 0px; }
+  .center { text-align: center; }
+  a { background: none !important; padding: 0px !important; }
+  a, a.external, a.new, a.stub { color: inherit !important; text-decoration=
+: inherit !important; }
+  dt { font-weight: bold; }
+  h1, h2, h3, h4, h5, h6 { font-weight: bold; break-after: avoid; break-bef=
+ore: avoid; }
+  p { margin: 1em 0px; line-height: 1.2; orphans: 3; widows: 3; }
+  img, figure { break-inside: avoid; }
+  img { border: 0px; vertical-align: middle; }
+  pre, .mw-code { background: rgb(255, 255, 255); color: rgb(0, 0, 0); bord=
+er: 1pt dashed rgb(0, 0, 0); padding: 1em; font-size: 8pt; white-space: pre=
+-wrap; overflow-x: hidden; overflow-wrap: break-word; }
+  ul { list-style-type: square; }
+  .toctogglecheckbox:checked + .toctitle { display: none; }
+  .toc { background-color: rgb(249, 249, 249); border: 1pt solid rgb(170, 1=
+70, 170); padding: 5px; display: table; }
+  .tocnumber, .toctext { display: table-cell; }
+  .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
+}
+
+@media screen {
+  div.thumbinner { border: 1px solid rgb(200, 204, 209); background-color: =
+rgb(248, 249, 250); font-size: 94%; }
+  .thumbimage { background-color: rgb(255, 255, 255); border: 1px solid rgb=
+(200, 204, 209); }
+  .thumbcaption { border: 0px; font-size: 94%; }
+  .thumbborder { border: 1px solid rgb(234, 236, 240); }
+  .magnify { float: right; margin-left: 3px; }
+  .magnify a { display: block; text-indent: 15px; white-space: nowrap; over=
+flow: hidden; width: 15px; height: 11px; background-image: url("/w/resource=
+s/src/mediawiki.skinning/images/magnify-clip-ltr.svg?8330e"); user-select: =
+none; }
+  .mw-content-ltr .thumbcaption { text-align: left; }
+  .mw-content-rtl .thumbcaption { text-align: right; }
+  .mw-content-ltr .magnify { margin-left: 3px; margin-right: 0px; float: ri=
+ght; }
+  .mw-content-ltr .magnify a { background-image: url("/w/resources/src/medi=
+awiki.skinning/images/magnify-clip-ltr.svg?8330e"); }
+  .mw-content-rtl .magnify { margin-left: 0px; margin-right: 3px; float: le=
+ft; }
+  .mw-content-rtl .magnify a { background-image: url("/w/resources/src/medi=
+awiki.skinning/images/magnify-clip-rtl.svg?38fd5"); }
+  figure[typeof~=3D"mw:File/Thumb"], figure[typeof~=3D"mw:File/Frame"] { bo=
+rder-width: 1px 1px 0px; border-top-style: solid; border-right-style: solid=
+; border-left-style: solid; border-top-color: rgb(200, 204, 209); border-ri=
+ght-color: rgb(200, 204, 209); border-left-color: rgb(200, 204, 209); borde=
+r-image: initial; border-bottom-style: initial; border-bottom-color: initia=
+l; background-color: rgb(248, 249, 250); }
+  figure[typeof~=3D"mw:File/Thumb"] > a:first-child > :first-child:not(.mw-=
+broken-media), figure[typeof~=3D"mw:File/Frame"] > a:first-child > :first-c=
+hild:not(.mw-broken-media), figure[typeof~=3D"mw:File/Thumb"] > span:first-=
+child > :first-child:not(.mw-broken-media), figure[typeof~=3D"mw:File/Frame=
+"] > span:first-child > :first-child:not(.mw-broken-media) { border: 1px so=
+lid rgb(200, 204, 209); background: rgb(255, 255, 255); }
+  figure[typeof~=3D"mw:File/Thumb"] > figcaption, figure[typeof~=3D"mw:File=
+/Frame"] > figcaption { border-width: 0px 1px 1px; border-right-style: soli=
+d; border-bottom-style: solid; border-left-style: solid; border-right-color=
+: rgb(200, 204, 209); border-bottom-color: rgb(200, 204, 209); border-left-=
+color: rgb(200, 204, 209); border-image: initial; border-top-style: initial=
+; border-top-color: initial; background-color: rgb(248, 249, 250); font-siz=
+e: 88.4%; }
+  .mw-image-border > a:first-child > :first-child:not(.mw-broken-media), .m=
+w-image-border > span:first-child > :first-child:not(.mw-broken-media) { bo=
+rder: 1px solid rgb(234, 236, 240); }
+  figure[typeof~=3D"mw:File/Thumb"]:not([typeof~=3D"mw:Error"]) > figcaptio=
+n::before { content: ""; width: 15px; height: 11px; }
+  .mw-content-ltr figure[typeof~=3D"mw:File/Thumb"]:not([typeof~=3D"mw:Erro=
+r"]) > figcaption::before { margin-left: 3px; float: right; }
+  .mw-content-rtl figure[typeof~=3D"mw:File/Thumb"]:not([typeof~=3D"mw:Erro=
+r"]) > figcaption::before { margin-right: 3px; float: left; }
+  figure[typeof~=3D"mw:File/Thumb"]:not([typeof~=3D"mw:Error"]) > a { displ=
+ay: block; position: relative; }
+  figure[typeof~=3D"mw:File/Thumb"]:not([typeof~=3D"mw:Error"]) > a.mw-file=
+-description::after { content: ""; width: 15px; height: 11px; position: abs=
+olute; bottom: -11px; }
+  .mw-content-ltr figure[typeof~=3D"mw:File/Thumb"]:not([typeof~=3D"mw:Erro=
+r"]) > a.mw-file-description::after { right: 6px; background-image: url("/w=
+/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg?8330e"); }
+  .mw-content-rtl figure[typeof~=3D"mw:File/Thumb"]:not([typeof~=3D"mw:Erro=
+r"]) > a.mw-file-description::after { left: 6px; background-image: url("/w/=
+resources/src/mediawiki.skinning/images/magnify-clip-rtl.svg?38fd5"); }
+  a.new { color: rgb(186, 0, 0); }
+  a.mw-selflink { color: inherit; font-weight: bold; text-decoration: inher=
+it; }
+  a.mw-selflink:hover { cursor: inherit; text-decoration: inherit; }
+  a.mw-selflink:active, a.mw-selflink:visited { color: inherit; }
+  a.new:visited { color: rgb(165, 88, 88); }
+  .mw-parser-output a.extiw, .mw-parser-output a.external { color: rgb(51, =
+102, 187); }
+  .mw-parser-output a.extiw:visited, .mw-parser-output a.external:visited {=
+ color: rgb(102, 51, 102); }
+  .mw-parser-output a.extiw:active, .mw-parser-output a.external:active { c=
+olor: rgb(187, 102, 51); }
+  .mw-underline-always a { text-decoration: underline; }
+  .mw-underline-never a { text-decoration: none; }
+  .plainlinks a.external { background: none !important; padding: 0px !impor=
+tant; }
+  .mw-body-content::after { clear: both; content: ""; display: block; }
+  .mw-body-content a.external.free { overflow-wrap: break-word; }
+  .mw-body-content .error { font-size: larger; color: rgb(221, 51, 51); }
+  .rtl .mw-parser-output a.external.free, .rtl .mw-parser-output a.external=
+.autonumber { direction: ltr; unicode-bidi: embed; }
+  .mw-hide-empty-elt .mw-parser-output:not(.mw-show-empty-elt) .mw-empty-el=
+t { display: none; }
+  .wikitable { background-color: rgb(248, 249, 250); color: rgb(32, 33, 34)=
+; margin: 1em 0px; border: 1px solid rgb(162, 169, 177); border-collapse: c=
+ollapse; }
+  .wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wi=
+kitable > * > tr > td { border: 1px solid rgb(162, 169, 177); padding: 0.2e=
+m 0.4em; }
+  .wikitable > tr > th, .wikitable > * > tr > th { background-color: rgb(23=
+4, 236, 240); text-align: center; }
+  .wikitable > caption { font-weight: bold; }
+  #catlinks { text-align: left; }
+  .catlinks { border: 1px solid rgb(162, 169, 177); background-color: rgb(2=
+48, 249, 250); padding: 5px; margin-top: 1em; clear: both; }
+  .catlinks ul { display: inline; margin: 0px; padding: 0px; list-style: no=
+ne; }
+  .catlinks li { display: inline-block; line-height: 1.25em; border-left: 1=
+px solid rgb(162, 169, 177); margin: 0.125em 0px; padding: 0px 0.5em; }
+  .catlinks li:first-child { padding-left: 0.25em; border-left: 0px; }
+  .catlinks li a.mw-redirect { font-style: italic; }
+  .mw-hidden-cats-hidden, .catlinks-allhidden { display: none; }
+  .emptyPortlet { display: none; }
+  .printfooter, .client-nojs #t-print { display: none; }
+  .mw-editsection { user-select: none; }
+  .mw-editsection, .mw-editsection-like { font-size: small; font-weight: no=
+rmal; margin-left: 1em; vertical-align: baseline; line-height: 0; }
+  .mw-content-ltr .mw-editsection, .mw-content-rtl .mw-content-ltr .mw-edit=
+section, .mw-content-ltr .mw-editsection-like, .mw-content-rtl .mw-content-=
+ltr .mw-editsection-like { margin-left: 1em; margin-right: 0px; }
+  .mw-content-rtl .mw-editsection, .mw-content-ltr .mw-content-rtl .mw-edit=
+section, .mw-content-rtl .mw-editsection-like, .mw-content-ltr .mw-content-=
+rtl .mw-editsection-like { margin-right: 1em; margin-left: 0px; }
+  .mw-indicators { float: right; }
+  #siteNotice { position: relative; text-align: center; margin: 0px; }
+  #localNotice { margin-bottom: 0.9em; }
+  #siteSub { display: none; }
+  .mw-content-subtitle, #contentSub, #contentSub2 { font-size: 84%; line-he=
+ight: 1.2em; margin: 0px 0px 1.4em 1em; color: rgb(84, 89, 93); width: auto=
+; }
+  span.subpages { display: block; }
+  .usermessage { background-color: rgb(254, 246, 231); border: 1px solid rg=
+b(255, 204, 51); color: rgb(0, 0, 0); font-weight: bold; margin: 2em 0px 1e=
+m; padding: 0.5em 1em; vertical-align: middle; }
+  a { text-decoration: none; color: rgb(6, 69, 173); background: none; }
+  a:not([href]) { cursor: pointer; }
+  a:visited { color: rgb(11, 0, 128); }
+  a:active { color: rgb(250, 167, 0); }
+  a:hover, a:focus { text-decoration: underline; }
+  a:lang(ar), a:lang(kk-arab), a:lang(mzn), a:lang(ps), a:lang(ur) { text-d=
+ecoration: none; }
+  img { border: 0px; vertical-align: middle; }
+  hr { height: 1px; background-color: rgb(162, 169, 177); border: 0px; marg=
+in: 0.2em 0px; }
+  h1, h2, h3, h4, h5, h6 { color: rgb(0, 0, 0); margin: 0px; padding-top: 0=
+.5em; padding-bottom: 0.17em; overflow: hidden; }
+  h1, h2 { margin-bottom: 0.6em; border-bottom: 1px solid rgb(162, 169, 177=
+); }
+  h3, h4, h5 { margin-bottom: 0.3em; }
+  h1 { font-size: 188%; font-weight: normal; }
+  h2 { font-size: 150%; font-weight: normal; }
+  h3 { font-size: 128%; }
+  h4 { font-size: 116%; }
+  h5 { font-size: 108%; }
+  h6 { font-size: 100%; }
+  p { margin: 0.4em 0px 0.5em; }
+  p img { margin: 0px; }
+  ul { margin: 0.3em 0px 0px 1.6em; padding: 0px; }
+  ol { margin: 0.3em 0px 0px 3.2em; padding: 0px; list-style-image: none; }
+  li { margin-bottom: 0.1em; }
+  dt { font-weight: bold; margin-bottom: 0.1em; }
+  dl { margin-top: 0.2em; margin-bottom: 0.5em; }
+  dd { margin-left: 1.6em; margin-bottom: 0.1em; }
+  pre, code, tt, kbd, samp, .mw-code { font-family: monospace, monospace; }
+  pre, code, .mw-code { background-color: rgb(248, 249, 250); color: rgb(0,=
+ 0, 0); border: 1px solid rgb(234, 236, 240); }
+  code { border-radius: 2px; padding: 1px 4px; }
+  pre, .mw-code { padding: 1em; white-space: pre-wrap; overflow-x: hidden; =
+overflow-wrap: break-word; }
+  table { font-size: 100%; }
+  fieldset { border: 1px solid rgb(42, 75, 141); margin: 1em 0px; padding: =
+0px 1em 1em; }
+  legend { padding: 0.5em; }
+  form { border: 0px; margin: 0px; }
+  textarea { display: block; box-sizing: border-box; width: 100%; border: 1=
+px solid rgb(200, 204, 209); padding: 0.1em; }
+  .center { width: 100%; text-align: center; }
+  .center * { margin-left: auto; margin-right: auto; }
+  .small { font-size: 94%; }
+  table.small { font-size: 100%; }
+  @counter-style meetei { system: numeric; symbols: "=EA=AF=B0" "=EA=AF=B1"=
+ "=EA=AF=B2" "=EA=AF=B3" "=EA=AF=B4" "=EA=AF=B5" "=EA=AF=B6" "=EA=AF=B7" "=
+=EA=AF=B8" "=EA=AF=B9"; suffix: ") "; }
+  @counter-style santali { system: numeric; symbols: "=E1=B1=90" "=E1=B1=91=
+" "=E1=B1=92" "=E1=B1=93" "=E1=B1=94" "=E1=B1=95" "=E1=B1=96" "=E1=B1=97" "=
+=E1=B1=98" "=E1=B1=99"; }
+  @counter-style myanmar_with_period { system: numeric; symbols: "=E1=81=80=
+" "=E1=81=81" "=E1=81=82" "=E1=81=83" "=E1=81=84" "=E1=81=85" "=E1=81=86" "=
+=E1=81=87" "=E1=81=88" "=E1=81=89"; suffix: "=E1=81=8B "; }
+  ol:lang(azb) li, ol:lang(bcc) li, ol:lang(bgn) li, ol:lang(bqi) li, ol:la=
+ng(fa) li, ol:lang(glk) li, ol:lang(kk-arab) li, ol:lang(lrc) li, ol:lang(l=
+uz) li, ol:lang(mzn) li { list-style-type: persian; }
+  ol:lang(ckb) li, ol:lang(sdh) li { list-style-type: arabic-indic; }
+  ol:lang(hi) li, ol:lang(mai) li, ol:lang(mr) li, ol:lang(ne) li { list-st=
+yle-type: devanagari; }
+  ol:lang(as) li, ol:lang(bn) li { list-style-type: bengali; }
+  ol:lang(mni) li { list-style-type: meetei; }
+  ol:lang(or) li { list-style-type: oriya; }
+  ol:lang(sat) li { list-style-type: santali; }
+  ol:lang(blk) li, ol:lang(kjp) li, ol:lang(ksw) li, ol:lang(mnw) li, ol:la=
+ng(my) li, ol:lang(shn) li { list-style-type: myanmar_with_period; }
+  .mw-content-ltr ul, .mw-content-rtl .mw-content-ltr ul { margin: 0.3em 0p=
+x 0px 1.6em; padding: 0px; }
+  .mw-content-rtl ul, .mw-content-ltr .mw-content-rtl ul { margin: 0.3em 1.=
+6em 0px 0px; padding: 0px; }
+  .mw-content-ltr ol, .mw-content-rtl .mw-content-ltr ol { margin: 0.3em 0p=
+x 0px 3.2em; padding: 0px; }
+  .mw-content-rtl ol, .mw-content-ltr .mw-content-rtl ol { margin: 0.3em 3.=
+2em 0px 0px; padding: 0px; }
+  .mw-content-ltr dd, .mw-content-rtl .mw-content-ltr dd { margin-left: 1.6=
+em; margin-right: 0px; }
+  .mw-content-rtl dd, .mw-content-ltr .mw-content-rtl dd { margin-right: 1.=
+6em; margin-left: 0px; }
+  h1:lang(anp), h1:lang(as), h1:lang(bh), h1:lang(bho), h1:lang(blk), h1:la=
+ng(bn), h1:lang(gu), h1:lang(hi), h1:lang(kjp), h1:lang(kn), h1:lang(ks), h=
+1:lang(ksw), h1:lang(mag), h1:lang(ml), h1:lang(mr), h1:lang(my), h1:lang(m=
+ai), h1:lang(mnw), h1:lang(ne), h1:lang(new), h1:lang(or), h1:lang(pa), h1:=
+lang(pi), h1:lang(rki), h1:lang(sa), h1:lang(shn), h1:lang(syl), h1:lang(ta=
+), h1:lang(te) { line-height: 1.6em !important; }
+  h2:lang(anp), h2:lang(as), h2:lang(bh), h2:lang(bho), h2:lang(blk), h2:la=
+ng(bn), h2:lang(gu), h2:lang(hi), h2:lang(kjp), h2:lang(kn), h2:lang(ks), h=
+2:lang(ksw), h2:lang(mag), h2:lang(ml), h2:lang(mr), h2:lang(my), h2:lang(m=
+ai), h2:lang(mnw), h2:lang(ne), h2:lang(new), h2:lang(or), h2:lang(pa), h2:=
+lang(pi), h2:lang(rki), h2:lang(sa), h2:lang(shn), h2:lang(syl), h2:lang(ta=
+), h2:lang(te), h3:lang(anp), h3:lang(as), h3:lang(bh), h3:lang(bho), h3:la=
+ng(blk), h3:lang(bn), h3:lang(gu), h3:lang(hi), h3:lang(kjp), h3:lang(kn), =
+h3:lang(ks), h3:lang(ksw), h3:lang(mag), h3:lang(ml), h3:lang(mr), h3:lang(=
+my), h3:lang(mai), h3:lang(mnw), h3:lang(ne), h3:lang(new), h3:lang(or), h3=
+:lang(pa), h3:lang(pi), h3:lang(rki), h3:lang(sa), h3:lang(shn), h3:lang(sy=
+l), h3:lang(ta), h3:lang(te), h4:lang(anp), h4:lang(as), h4:lang(bh), h4:la=
+ng(bho), h4:lang(blk), h4:lang(bn), h4:lang(gu), h4:lang(hi), h4:lang(kjp),=
+ h4:lang(kn), h4:lang(ks), h4:lang(ksw), h4:lang(mag), h4:lang(ml), h4:lang=
+(mr), h4:lang(my), h4:lang(mai), h4:lang(mnw), h4:lang(ne), h4:lang(new), h=
+4:lang(or), h4:lang(pa), h4:lang(pi), h4:lang(rki), h4:lang(sa), h4:lang(sh=
+n), h4:lang(syl), h4:lang(ta), h4:lang(te), h5:lang(anp), h5:lang(as), h5:l=
+ang(bh), h5:lang(bho), h5:lang(blk), h5:lang(bn), h5:lang(gu), h5:lang(hi),=
+ h5:lang(kjp), h5:lang(kn), h5:lang(ks), h5:lang(ksw), h5:lang(mag), h5:lan=
+g(ml), h5:lang(mr), h5:lang(my), h5:lang(mai), h5:lang(mnw), h5:lang(ne), h=
+5:lang(new), h5:lang(or), h5:lang(pa), h5:lang(pi), h5:lang(rki), h5:lang(s=
+a), h5:lang(shn), h5:lang(syl), h5:lang(ta), h5:lang(te), h6:lang(anp), h6:=
+lang(as), h6:lang(bh), h6:lang(bho), h6:lang(blk), h6:lang(bn), h6:lang(gu)=
+, h6:lang(hi), h6:lang(kjp), h6:lang(kn), h6:lang(ks), h6:lang(ksw), h6:lan=
+g(mag), h6:lang(ml), h6:lang(mr), h6:lang(my), h6:lang(mai), h6:lang(mnw), =
+h6:lang(ne), h6:lang(new), h6:lang(or), h6:lang(pa), h6:lang(pi), h6:lang(r=
+ki), h6:lang(sa), h6:lang(shn), h6:lang(syl), h6:lang(ta), h6:lang(te) { li=
+ne-height: 1.4em; }
+  h2:lang(th) { line-height: 1.6; }
+  .toc, .toccolours { border: 1px solid rgb(162, 169, 177); background-colo=
+r: rgb(248, 249, 250); padding: 5px; font-size: 95%; }
+  .toc { display: table; padding: 7px; }
+  .toc h2 { display: inline; border: 0px; padding: 0px; font-size: 100%; fo=
+nt-weight: bold; }
+  .toc .toctitle { text-align: center; }
+  .toc ul { list-style: none; margin: 0.3em 0px; padding: 0px; text-align: =
+left; }
+  .toc ul ul { margin: 0px 0px 0px 2em; }
+  table.toc { border-collapse: collapse; }
+  table.toc td { padding: 0px; }
+  .tocnumber, .toctext { display: table-cell; text-decoration: inherit; }
+  .tocnumber { color: rgb(32, 33, 34); padding-left: 0px; padding-right: 0.=
+5em; }
+  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
+  .toctogglecheckbox { position: absolute; opacity: 0; z-index: -1; display=
+: inline !important; }
+  .toctogglespan { font-size: 94%; }
+  .toctogglespan::before { content: " ["; }
+  .toctogglespan::after { content: "]"; }
+  .toctogglelabel { cursor: pointer; color: rgb(6, 69, 173); }
+  .toctogglelabel:hover { text-decoration: underline; }
+  .toctogglecheckbox:focus + .toctitle .toctogglelabel { text-decoration: u=
+nderline; outline: -webkit-focus-ring-color auto; }
+  .toctogglecheckbox:checked + .toctitle .toctogglelabel::after { content: =
+"show"; }
+  .toctogglecheckbox:not(:checked) + .toctitle .toctogglelabel::after { con=
+tent: "hide"; }
+  .toc .toctitle { direction: ltr; }
+  .mw-content-ltr .toc ul, .mw-content-rtl .mw-content-ltr .toc ul { text-a=
+lign: left; }
+  .mw-content-rtl .toc ul, .mw-content-ltr .mw-content-rtl .toc ul { text-a=
+lign: right; }
+  .mw-content-ltr .toc ul ul, .mw-content-rtl .mw-content-ltr .toc ul ul { =
+margin: 0px 0px 0px 2em; }
+  .mw-content-rtl .toc ul ul, .mw-content-ltr .mw-content-rtl .toc ul ul { =
+margin: 0px 2em 0px 0px; }
+}
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://sqlzoo.net/w/skins/Vector/resources/common/images/bullet-icon.svg?d4515
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?>
+<svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"5" height=3D"13">
+	<circle cx=3D"2.5" cy=3D"9" r=3D"2.5" fill=3D"#202122"/>
+</svg>=0A
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://sqlzoo.net/w/skins/Vector/resources/common/images/link-external-small-ltr-progressive.svg?2cd31
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?>
+<svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"12" height=3D"12" viewBo=
+x=3D"0 0 12 12">
+	<title>
+		external link
+	</title>
+	<path fill=3D"#36c" d=3D"M6 1h5v5L8.86 3.85 4.7 8 4 7.3l4.15-4.16L6 1Z M2 =
+3h2v1H2v6h6V8h1v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Z"/>
+</svg>=0A
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://sqlzoo.net/w/skins/Vector/resources/common/images/search.svg?ac00d
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?>
+<svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" height=3D"20" viewBo=
+x=3D"0 0 20 20">
+	<title>
+		search
+	</title>
+	<path d=3D"M12.2 13.6a7 7 0 1 1 1.4-1.4l5.4 5.4-1.4 1.4zM3 8a5 5 0 1 0 10 =
+0A5 5 0 0 0 3 8z"/>
+</svg>=0A
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://sqlzoo.net/design/sql_zoo_logo06.png
+
+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
+
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://sqlzoo.net/w/load.php?lang=en-gb&modules=site.styles&only=styles&skin=vector
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://sqlzoo.net/sqlzoo.css
+
+@charset "utf-8";
+
+#chatbot-prompt { display: none; }
+
+#catlinks { display: none; }
+
+#mw-head-base > div > span { display: inline-block; vertical-align: text-bo=
+ttom; line-height: normal; }
+
+#mw-head-base > div { padding-left: 2ex; line-height: 5em; height: 90%; mar=
+gin-top: 6px; margin-left: 1ex; margin-right: 5ex; border: thin solid gray;=
+ border-radius: 5px; }
+
+#mw-head-base > div + div { display: none; }
+
+.coding-ninja-body { display: none; }
+
+.india .coding-ninja-body { display: block; background: rgb(18, 46, 106); p=
+adding: 0.1em 1em; margin-right: 3em; }
+
+.india .coding-ninja-body h2 { font: 700 40px / 52px Mulish, Roboto, "Helve=
+tica Neue", sans-serif; }
+
+.hide-unless { display: none; }
+
+.mssql .hide-unless.mssql, .mysql .hide-unless.mysql, .postgres .hide-unles=
+s.postgres { display: block; }
+
+.errorMsg { font-family: monospace; }
+
+#left-navigation, #right-navigation { display: none; }
+
+#p-tb div, #p-Reference div { overflow: hidden; }
+
+#p-tb:hover h3, #p-Reference:hover h3 { text-decoration: underline; }
+
+.r { text-align: right; }
+
+.imper { font-weight: bold; }
+
+table.distractor, table.distractor caption { background: rgb(249, 249, 249)=
+; float: left; margin: 1ex; }
+
+table.distractor { border: thin solid rgb(208, 208, 208); }
+
+table.object { clear: left; margin: 1ex; }
+
+#mw-panel .portal.first .body ul li { text-align: right; }
+
+div#mw-panel div.portal.first { margin-left: 0px; }
+
+div.body div.portal.first ul li a { padding-right: 40px; display: inline-bl=
+ock; color: rgb(59, 67, 78); }
+
+div#mw-panel div.portal.first div.body ul li a { padding-right: 25px; color=
+: rgb(59, 67, 78); }
+
+.progressbarbg1 { position: absolute; right: 0px; width: 4.5ex; height: 6px=
+; background: black; border-radius: 6px; border: 1px solid rgb(146, 165, 15=
+3); margin: -1em 0px 0px; }
+
+.progressbar1 { width: 3.93ex; height: 4px; position: relative; top: 1px; l=
+eft: 1px; background: rgb(146, 165, 153); border-radius: 0.6ex; border-widt=
+h: 0px; border-color: rgb(0, 0, 0); }
+
+#cog-cont ul { position: absolute; background-color: white; border: thin so=
+lid black; padding: 1em; right: 1em; top: 32px; list-style: none; }
+
+#cog-cont ul li { }
+
+#p-personal { right: 50px; }
+
+.tease { color: rgb(29, 54, 93); font-style: italic; cursor: pointer; paddi=
+ng: 0.2ex; }
+
+h1 { font-family: sans-serif; }
+
+table.db_ref { border-collapse: collapse; }
+
+.db_ref th { text-align: left; }
+
+.db_ref th, .db_ref td { border: thin solid black; padding-left: 0.6ex; pad=
+ding-right: 0.6ex; }
+
+.db_ref .r { text-align: right; }
+
+div.def, div.ans { display: none; }
+
+span.id { font-size: 300%; padding-right: 1ex; }
+
+.qu, .ht { border-top: thin solid rgb(238, 131, 1); margin-bottom: 9em; }
+
+h2 + .qu, h2 + .ht { border-top: none; }
+
+div.setup, div.tidy, div.params { display: none; }
+
+div.res { margin-top: 1ex; background: rgb(218, 229, 217); color: rgb(59, 6=
+7, 78); border: 1px inset; padding: 1em; border-radius: 0.5ex; box-shadow: =
+rgb(59, 67, 78) 1px 1px 3px; height: 20em; overflow: auto; resize: both; }
+
+div.res.waiting { background-image: url("https://sqlzoo.net/design/ajax-loa=
+der.gif"); background-repeat: no-repeat; background-position: center center=
+; }
+
+textarea.sql { width: 100%; box-shadow: rgb(59, 67, 78) 1px 1px 3px; border=
+-style: inset; border-width: 1px; border-radius: 1ex; padding: 0.5ex; margi=
+n-bottom: 0.5ex; }
+
+button { background-image: linear-gradient(rgb(51, 122, 183) 0px, rgb(38, 9=
+0, 136) 100%); background-color: rgb(48, 106, 160); color: white; padding: =
+10px 16px; font-size: 18px; line-height: 1.3; border-radius: 6px; border-co=
+lor: rgb(36, 85, 128); border-width: 1px; cursor: pointer; }
+
+.reset { display: inline; border: 1px solid; margin-left: 6em; padding: 0.5=
+ex; border-radius: 0.5ex; cursor: pointer; }
+
+.qcorrect { background-image: url("https://sqlzoo.net/design/done9.png"); }
+
+.qincorrect { background-image: url("https://sqlzoo.net/design/undone9.png"=
+); }
+
+.qcorrect, .qincorrect { width: 3em; height: 3em; position: absolute; margi=
+n: 0em 0px 0px 5em; background-size: 3em; background-repeat: no-repeat; bac=
+kground-position: center center; }
+
+#p-logo > a { background-position: center top; }
+
+table { border-collapse: collapse; }
+
+table.sqlans { display: none; }
+
+td, th { border: 1px solid gray; padding: 0.2em 0.7em; vertical-align: top;=
+ }
+
+.showtxt { color: blue; cursor: pointer; }
+
+#napier-ad { width: 728px; height: 90px; display: inline-block; margin-left=
+: 11em; background-image: url("https://sqlzoo.net/design/iidi_leaderboard.g=
+if"); }
+
+@media (max-width: 1000px) {
+  #napier-ad { display: none; }
+}
+
+@media (min-width: 1000px) {
+  .zood > div, .zood > div { width: 46%; display: inline-block; vertical-al=
+ign: top; margin-top: 1ex; }
+  .zood > div:first-child { }
+  .zood > div.res, ht > div.res.ht { margin-left: 1%; }
+}
+
+@media (max-width: 768px) {
+  div#mw-panel { display: none; }
+  #left-navigation { left: 0px; }
+  #mw-head-base, div#content, div#footer { margin-left: 0px; }
+  .db_ref { }
+}
+
+.quiz .q { margin-top: 4em; padding-top: 0.8em; padding-bottom: 0.8em; bord=
+er-radius: 1em; }
+
+.quiz .q .d { border: thin solid blue; margin-top: 1em; cursor: pointer; }
+
+.quiz .q div.d { padding: 0.5em 0.5em 0.5em 1em; }
+
+.quiz .q .d:hover { border: thin solid black; box-shadow: rgba(50, 50, 50, =
+0.75) 0px 0px 5px 1ex; }
+
+.quiz .q .d.picked { box-shadow: rgb(207, 209, 186) 0ex 0ex 4px 1ex; }
+
+.quiz .q .d.picked::before { content: "=E2=97=8B"; padding: 0.3em; backgrou=
+nd: white; border: thin solid black; position: absolute; text-align: center=
+; vertical-align: middle; left: -0.9em; margin-top: -0.9em; width: 1em; hei=
+ght: 1em; }
+
+.quiz .q .d.picked.mark-correct::before { content: "=E2=9C=93"; background-=
+color: green; }
+
+.quiz .q .d.picked.mark-wrong::before { content: "=E2=9C=97"; background-co=
+lor: red; }
+
+.quiz .feedback { margin: 1em 0px; padding: 1em; border: thin solid black; =
+font-size: large; box-shadow: rgb(207, 209, 186) 0.2ex 0.2ex; }
+
+td.sign { vertical-align: middle; display: none; }
+
+#indJobContent { padding-bottom: 5px; }
+
+#indJobContent .company_location { font-size: 11px; overflow: hidden; displ=
+ay: block; }
+
+#indJobContent.wide .job { display: block; float: left; margin-right: 5px; =
+width: 180px; overflow: hidden; white-space: nowrap; text-overflow: ellipsi=
+s; }
+
+#indeed_widget_wrapper { position: relative; font-family: "Helvetica Neue",=
+ Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-h=
+eight: 18px; padding: 10px; height: auto; overflow: hidden; }
+
+#indeed_widget_header { font-size: 18px; padding-bottom: 5px; }
+
+#indeed_link { position: absolute; top: 1px; right: 5px; clear: both; font-=
+size: 11px; }
+
+#indeed_link a { text-decoration: none; }
+
+#indeed_widget_wrapper { width: 740px; height: 58px; background: rgb(255, 2=
+55, 255); }
+
+#indeed_widget_wrapper { border: 1px solid rgb(221, 221, 221); }
+
+#indeed_widget_wrapper, #indeed_link a { color: rgb(0, 0, 0); }
+
+#indJobContent, #indeed_search_wrapper { border-top: 1px solid rgb(221, 221=
+, 221); }
+
+#indJobContent a { color: rgb(0, 0, 204); }
+
+#indeed_widget_header { color: rgb(0, 0, 0); }
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://usechannel.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_no_text_black.c13cd37b.png&w=256&q=75
+
+UklGRlwUAABXRUJQVlA4WAoAAAAwAAAAcAAAcAAASUNDUEgMAAAAAAxITGlubwIQAABtbnRyUkdC
+IFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAAAAAAAAAAAAAA9tYAAQAA
+AADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFj
+cHJ0AAABUAAAADNkZXNjAAABhAAAAGx3dHB0AAAB8AAAABRia3B0AAACBAAAABRyWFlaAAACGAAA
+ABRnWFlaAAACLAAAABRiWFlaAAACQAAAABRkbW5kAAACVAAAAHBkbWRkAAACxAAAAIh2dWVkAAAD
+TAAAAIZ2aWV3AAAD1AAAACRsdW1pAAAD+AAAABRtZWFzAAAEDAAAACR0ZWNoAAAEMAAAAAxyVFJD
+AAAEPAAACAxnVFJDAAAEPAAACAxiVFJDAAAEPAAACAx0ZXh0AAAAAENvcHlyaWdodCAoYykgMTk5
+OCBIZXdsZXR0LVBhY2thcmQgQ29tcGFueQAAZGVzYwAAAAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEA
+AAAAAAAAAAAAABJzUkdCIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAA
+AAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAA
+AA+EAAC2z2Rlc2MAAAAAAAAAFklFQyBodHRwOi8vd3d3LmllYy5jaAAAAAAAAAAAAAAAFklFQyBo
+dHRwOi8vd3d3LmllYy5jaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAABkZXNjAAAAAAAAAC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAt
+IHNSR0IAAAAAAAAAAAAAAC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAt
+IHNSR0IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZGVzYwAAAAAAAAAsUmVmZXJlbmNlIFZpZXdpbmcg
+Q29uZGl0aW9uIGluIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAALFJlZmVyZW5jZSBWaWV3aW5nIENv
+bmRpdGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHZpZXcAAAAA
+ABOk/gAUXy4AEM8UAAPtzAAEEwsAA1yeAAAAAVhZWiAAAAAAAEwJVgBQAAAAVx/nbWVhcwAAAAAA
+AAABAAAAAAAAAAAAAAAAAAAAAAAAAo8AAAACc2lnIAAAAABDUlQgY3VydgAAAAAAAAQAAAAABQAK
+AA8AFAAZAB4AIwAoAC0AMgA3ADsAQABFAEoATwBUAFkAXgBjAGgAbQByAHcAfACBAIYAiwCQAJUA
+mgCfAKQAqQCuALIAtwC8AMEAxgDLANAA1QDbAOAA5QDrAPAA9gD7AQEBBwENARMBGQEfASUBKwEy
+ATgBPgFFAUwBUgFZAWABZwFuAXUBfAGDAYsBkgGaAaEBqQGxAbkBwQHJAdEB2QHhAekB8gH6AgMC
+DAIUAh0CJgIvAjgCQQJLAlQCXQJnAnECegKEAo4CmAKiAqwCtgLBAssC1QLgAusC9QMAAwsDFgMh
+Ay0DOANDA08DWgNmA3IDfgOKA5YDogOuA7oDxwPTA+AD7AP5BAYEEwQgBC0EOwRIBFUEYwRxBH4E
+jASaBKgEtgTEBNME4QTwBP4FDQUcBSsFOgVJBVgFZwV3BYYFlgWmBbUFxQXVBeUF9gYGBhYGJwY3
+BkgGWQZqBnsGjAadBq8GwAbRBuMG9QcHBxkHKwc9B08HYQd0B4YHmQesB78H0gflB/gICwgfCDII
+RghaCG4IggiWCKoIvgjSCOcI+wkQCSUJOglPCWQJeQmPCaQJugnPCeUJ+woRCicKPQpUCmoKgQqY
+Cq4KxQrcCvMLCwsiCzkLUQtpC4ALmAuwC8gL4Qv5DBIMKgxDDFwMdQyODKcMwAzZDPMNDQ0mDUAN
+Wg10DY4NqQ3DDd4N+A4TDi4OSQ5kDn8Omw62DtIO7g8JDyUPQQ9eD3oPlg+zD88P7BAJECYQQxBh
+EH4QmxC5ENcQ9RETETERTxFtEYwRqhHJEegSBxImEkUSZBKEEqMSwxLjEwMTIxNDE2MTgxOkE8UT
+5RQGFCcUSRRqFIsUrRTOFPAVEhU0FVYVeBWbFb0V4BYDFiYWSRZsFo8WshbWFvoXHRdBF2UXiReu
+F9IX9xgbGEAYZRiKGK8Y1Rj6GSAZRRlrGZEZtxndGgQaKhpRGncanhrFGuwbFBs7G2MbihuyG9oc
+AhwqHFIcexyjHMwc9R0eHUcdcB2ZHcMd7B4WHkAeah6UHr4e6R8THz4faR+UH78f6iAVIEEgbCCY
+IMQg8CEcIUghdSGhIc4h+yInIlUigiKvIt0jCiM4I2YjlCPCI/AkHyRNJHwkqyTaJQklOCVoJZcl
+xyX3JicmVyaHJrcm6CcYJ0kneierJ9woDSg/KHEooijUKQYpOClrKZ0p0CoCKjUqaCqbKs8rAis2
+K2krnSvRLAUsOSxuLKIs1y0MLUEtdi2rLeEuFi5MLoIuty7uLyQvWi+RL8cv/jA1MGwwpDDbMRIx
+SjGCMbox8jIqMmMymzLUMw0zRjN/M7gz8TQrNGU0njTYNRM1TTWHNcI1/TY3NnI2rjbpNyQ3YDec
+N9c4FDhQOIw4yDkFOUI5fzm8Ofk6Njp0OrI67zstO2s7qjvoPCc8ZTykPOM9Ij1hPaE94D4gPmA+
+oD7gPyE/YT+iP+JAI0BkQKZA50EpQWpBrEHuQjBCckK1QvdDOkN9Q8BEA0RHRIpEzkUSRVVFmkXe
+RiJGZ0arRvBHNUd7R8BIBUhLSJFI10kdSWNJqUnwSjdKfUrESwxLU0uaS+JMKkxyTLpNAk1KTZNN
+3E4lTm5Ot08AT0lPk0/dUCdQcVC7UQZRUFGbUeZSMVJ8UsdTE1NfU6pT9lRCVI9U21UoVXVVwlYP
+VlxWqVb3V0RXklfgWC9YfVjLWRpZaVm4WgdaVlqmWvVbRVuVW+VcNVyGXNZdJ114XcleGl5sXr1f
+D19hX7NgBWBXYKpg/GFPYaJh9WJJYpxi8GNDY5dj62RAZJRk6WU9ZZJl52Y9ZpJm6Gc9Z5Nn6Wg/
+aJZo7GlDaZpp8WpIap9q92tPa6dr/2xXbK9tCG1gbbluEm5rbsRvHm94b9FwK3CGcOBxOnGVcfBy
+S3KmcwFzXXO4dBR0cHTMdSh1hXXhdj52m3b4d1Z3s3gReG54zHkqeYl553pGeqV7BHtje8J8IXyB
+fOF9QX2hfgF+Yn7CfyN/hH/lgEeAqIEKgWuBzYIwgpKC9INXg7qEHYSAhOOFR4Wrhg6GcobXhzuH
+n4gEiGmIzokziZmJ/opkisqLMIuWi/yMY4zKjTGNmI3/jmaOzo82j56QBpBukNaRP5GokhGSepLj
+k02TtpQglIqU9JVflcmWNJaflwqXdZfgmEyYuJkkmZCZ/JpomtWbQpuvnByciZz3nWSd0p5Anq6f
+HZ+Ln/qgaaDYoUehtqImopajBqN2o+akVqTHpTilqaYapoum/adup+CoUqjEqTepqaocqo+rAqt1
+q+msXKzQrUStuK4trqGvFq+LsACwdbDqsWCx1rJLssKzOLOutCW0nLUTtYq2AbZ5tvC3aLfguFm4
+0blKucK6O7q1uy67p7whvJu9Fb2Pvgq+hL7/v3q/9cBwwOzBZ8Hjwl/C28NYw9TEUcTOxUvFyMZG
+xsPHQce/yD3IvMk6ybnKOMq3yzbLtsw1zLXNNc21zjbOts83z7jQOdC60TzRvtI/0sHTRNPG1EnU
+y9VO1dHWVdbY11zX4Nhk2OjZbNnx2nba+9uA3AXcit0Q3ZbeHN6i3ynfr+A24L3hROHM4lPi2+Nj
+4+vkc+T85YTmDeaW5x/nqegy6LzpRunQ6lvq5etw6/vshu0R7ZzuKO6070DvzPBY8OXxcvH/8ozz
+GfOn9DT0wvVQ9d72bfb794r4Gfio+Tj5x/pX+uf7d/wH/Jj9Kf26/kv+3P9t//9BTFBInwcAAAGw
+FdtWWNvWlIAEJEQCEnBwcHBxEBwEB8RBngMkRAISkEDVBsackFXvOyIg2rYSVAJdGlkPLog08we0
+n5U2zgdFR3DWaPp9LrUNrCmMCtRIpH6TzJnfTo2llohMfZz+NcnVAS0L1H8g/5JAdfdN1KQ08vUj
+km7HNio9lD9/d2pyckKy5fx0otOo/ER/S9RMClAm0rM2g83FfUdnHayTmgTohaRGFYr96Kl3ts4j
+OmaniR0825z0B+RBaMjC8kU21z+qEx3A5vJBeyYKRPesgtSrCmUFi1Rw+/fgO5EnyrMKCOT/Yf8h
+zRwCyG/+NYO8YxBYhihOFImB80bq3Mjv/thGV1N0QEfNKhwYZIS9YwD3neZd5Tcty11JC0IR2cyg
+ycDpJiq8wueW/g4AxTkqpfmmOykCOKEfGNXqX9vTm0M+i4xBBjkYw8lYV3CU72gPt42bRTYHJqsR
+DC/GugfhEgZVVt/Gpq+m0T6xjIMhnIbbE/ONWft/a786axtnCLHNDMgE4UTWFQj4vKfrsUBWsOUT
+toFxMEE4WU8gNOJqetUFoIPviFZ2zRmnqdk6N9rPRUQWU2ngGqcbmFcgyMQ7GSjtuMuVF5xI7YLQ
+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
+
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://static.prd.datawars.io/brand/icon-transparent-bg.png
+
+iVBORw0KGgoAAAANSUhEUgAAAHkAAABZCAYAAAAaVot/AAAEjUlEQVR4nO2d31EbMRCHfyZ5yFsY
+GoAZ70ve6AB3gDuw0wEdxCWQCjAVxKkAu4MU4BmOChJXQB6kTc7Cxj6fpF39+WZ48oB0/pBOu6fT
+Dl5fX1ECRHQO4M7+LADM1ut1I9qpSAxyl+zI/ex8/IgCZGctmYimAO7xVq5L1rKzlGzlzgBcdvzV
+LGVnJbmHXJfvMLL/9O2TBrKQ7FFumw3MVH+fuuykJQeS65K87CQlE9EIwBxh5bokKzspyVbuDMCN
+YDeSk52EZCVyXTYwomfSHTmEaslK5bq8wKzE59Id2YdKyYnIdVErezAcDq8BNBruL0R0DXO/S0mu
+iyrZRDQ6AzAG0BDRzOZ5pTpzjvQFA2bFP7OzkRhENCWiBsDTYDgczgB8s59tIPyExo7mOwATifZ7
+Ij6Kd+UOXMltRPO4RHQF09kUZK9gVtoLicYPPGl7VzLzCGC+Xq+XITp4CCt7ij0XIMwKZiAsJRo/
+JJc5RjKTxAVF4hFm5P6SaLw1y41xxHfRRTKjYWoaI3zOehdJ3sJOkcyoXGQEgNOYc0G5I5hb1knr
+kz6SGQ2yxzDTuM/wSzxH7Ssp5EMyk8uX8mL/xkLwOrz+0/qUzGiQfUqsrWFGmiLA7SeEZEZDYuUK
+hxcqolEDEH5tEVJyGw2r0im2w69iQsJYkpmfMNP4MlJ7W9gvdgpzv20E+xA13o8tmRGfImPTNYHh
+k48xG2txA+CJiFYw8edcqB/B0ZCDP5Nq2HID4IGIGrv4yAYiGhHRHMAzhB+ySI1kl0sY2TMIx6h9
+0birRXoku1wCeICCTQxdIaIxES0BPEGRYECfZOYzzGJQvezWDowfUCaX0SqZYdm/iWhuFzEqaMl9
+QPynYZ3Qck8+hgmACRGJJVaUPdM+Gu0jeRcTAM9EtIi1WY6Izu2isIGZWZIRDKQ1kl1uAdzaWDtI
+YkUygeGTlCUz3hMrGhIYPklxut5H78SKpgSGT3IYyS6dEysaExg+yWkkuxxMrGhOYPgkx5HswrH2
+HRHdw+xakdrtKUIJkhmWHfuxqjg5T9cVS5VcAFVyAVTJBVAlF0CVXABVcgFUyQVQJRdAlVwAVXIB
+VMkFUCUXQJVcAFVyAVTJBVAlF0CVXAAfLi4uGgADAF8AfJLtTsUzKwBf/51cn+p7PpWdbB16+6Y8
+QUv2FIXsZsyInS8DvluDItLZlZV+HDwv7ahCI1W2So4++bBTNZncXydJhM7HWp5UMqjKFuHksz97
+1YVKvChIKvQ+2NVL8a/c3udVgrcKAV4rvFnZHH7VWPs0vJ+cEKSMX02snESwqj1BazXWxMpRBD/N
+KFpBzhprbxH1wPfoVVcLly1SukGstG5hsbZoXQ7x+smZyxYvXgIokMxkllhRIZdRI5lJPLEiWuJw
+H+okM4klVlTX1FArmVGeWBGtvnos6iUzyhIronWuupKM5DZCsfYGwBxm5DYR2+1NkpKZyKV1xWpP
+9iVpyUygWPsF/0duknKZLCQzPkvraolxfZCVZCbV0rqhyFIyk0pp3dBkLZnRWFo3JkVIZlqldZfa
+Exg++QuYAZMHeftEfQAAAABJRU5ErkJggg==
+
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://sqlzoo.net/design/Cog_font_awesome.svg
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"no"?>
+<svg
+   xmlns:dc=3D"http://purl.org/dc/elements/1.1/"
+   xmlns:cc=3D"http://creativecommons.org/ns#"
+   xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg=3D"http://www.w3.org/2000/svg"
+   xmlns=3D"http://www.w3.org/2000/svg"
+   xmlns:sodipodi=3D"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape=3D"http://www.inkscape.org/namespaces/inkscape"
+   viewBox=3D"0 -256 1792 1792"
+   id=3D"svg3025"
+   version=3D"1.1"
+   inkscape:version=3D"0.48.3.1 r9886"
+   width=3D"100%"
+   height=3D"100%"
+   sodipodi:docname=3D"cog_font_awesome.svg">
+  <metadata
+     id=3D"metadata3035">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about=3D"">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource=3D"http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id=3D"defs3033" />
+  <sodipodi:namedview
+     pagecolor=3D"#ffffff"
+     bordercolor=3D"#666666"
+     borderopacity=3D"1"
+     objecttolerance=3D"10"
+     gridtolerance=3D"10"
+     guidetolerance=3D"10"
+     inkscape:pageopacity=3D"0"
+     inkscape:pageshadow=3D"2"
+     inkscape:window-width=3D"640"
+     inkscape:window-height=3D"480"
+     id=3D"namedview3031"
+     showgrid=3D"false"
+     inkscape:zoom=3D"0.13169643"
+     inkscape:cx=3D"896"
+     inkscape:cy=3D"896"
+     inkscape:window-x=3D"0"
+     inkscape:window-y=3D"25"
+     inkscape:window-maximized=3D"0"
+     inkscape:current-layer=3D"svg3025" />
+  <g
+     transform=3D"matrix(1,0,0,-1,121.49153,1285.4237)"
+     id=3D"g3027">
+    <path
+       d=3D"m 1024,640 q 0,106 -75,181 -75,75 -181,75 -106,0 -181,-75 -75,-=
+75 -75,-181 0,-106 75,-181 75,-75 181,-75 106,0 181,75 75,75 75,181 z m 512=
+,109 V 527 q 0,-12 -8,-23 -8,-11 -20,-13 l -185,-28 q -19,-54 -39,-91 35,-5=
+0 107,-138 10,-12 10,-25 0,-13 -9,-23 -27,-37 -99,-108 -72,-71 -94,-71 -12,=
+0 -26,9 l -138,108 q -44,-23 -91,-38 -16,-136 -29,-186 -7,-28 -36,-28 H 657=
+ q -14,0 -24.5,8.5 Q 622,-111 621,-98 L 593,86 q -49,16 -90,37 L 362,16 Q 3=
+52,7 337,7 323,7 312,18 186,132 147,186 q -7,10 -7,23 0,12 8,23 15,21 51,66=
+.5 36,45.5 54,70.5 -27,50 -41,99 L 29,495 Q 16,497 8,507.5 0,518 0,531 v 22=
+2 q 0,12 8,23 8,11 19,13 l 186,28 q 14,46 39,92 -40,57 -107,138 -10,12 -10,=
+24 0,10 9,23 26,36 98.5,107.5 72.5,71.5 94.5,71.5 13,0 26,-10 l 138,-107 q =
+44,23 91,38 16,136 29,186 7,28 36,28 h 222 q 14,0 24.5,-8.5 Q 914,1391 915,=
+1378 l 28,-184 q 49,-16 90,-37 l 142,107 q 9,9 24,9 13,0 25,-10 129,-119 16=
+5,-170 7,-8 7,-22 0,-12 -8,-23 -15,-21 -51,-66.5 -36,-45.5 -54,-70.5 26,-50=
+ 41,-98 l 183,-28 q 13,-2 21,-12.5 8,-10.5 8,-23.5 z"
+       id=3D"path3029"
+       inkscape:connector-curvature=3D"0"
+       style=3D"fill:currentColor" />
+  </g>
+</svg>=0A
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://sqlzoo.net/w/resources/assets/poweredby_mediawiki_88x31.png
+
+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
+
+------MultipartBoundary--Wtr9pj7Gg7USkAJxzmQrbEJD3NgKayIzLjkwownwMG------

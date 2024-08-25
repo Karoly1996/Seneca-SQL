@@ -1,0 +1,62 @@
+    CREATE TABLE tblCourse 
+(
+    courseID NUMERIC(38) PRIMARY KEY,
+    courseCode CHAR(6) NOT NULL UNIQUE,
+    CONSTRAINT ck_courseID CHECK (courseID > 0)
+);
+
+CREATE TABLE tblCourseDetail
+(
+    courseID NUMERIC(38) NOT NULL UNIQUE,
+    random char(38), NOT NULL,
+    PRIMARY KEY (courseID),
+    FOREIGN KEY (courseID) REFERENCES tblCourse(courseID),
+    CONSTRAINT ck_random CHECK (random IN ('fall', 'winter'))
+);
+
+    ADDING COLUMN
+ALTER TABLE tblCourse 
+ADD courseDesc CHAR(35) NOT NULL;
+
+    REMOVE UNIQUE CONSTRAINT
+ALTER TABLE tblSemester
+DROP CONSTRAINT constraint-name;
+
+    DROPING A TABLE
+DROP TABLE tblSemester;
+
+    RENAMING COLUMNS
+ALTER TABLE tblCourseDetail 
+RENAME COLUMN courseGrade
+TO courseLettergrade;
+
+    CHANGING COLUMN LENGTHS
+ALTER TABLE tblStudent
+MODIFY 
+(
+    studentFname CHAR(25),
+    studentLname CHAR(25)
+)
+
+
+
+ALTER TABLE 
+ADD, 
+DROP TABLE,
+ DROP CONSTRAINT, 
+ RENAME COLUMN TO, 
+MODIFY 
+
+CREATE TABLE tblClass
+(
+    classID NUMERIC(38) PRIMARY KEY,
+    classSubject CHAR(38) NOT NULL, UNIQUE,
+    CONSTRAINT ck_classID CHECK (classID > 0)
+);
+
+ALTER TABLE "name" - 
+DROP CONSTRAINT "name" = dropping constraint 
+
+ALTER TABLE "name" - 
+RENAME COLUMN "name"
+TO 'newName'
